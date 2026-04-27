@@ -103,13 +103,12 @@ Dari sisi kepercayaan publik, kejadian ini membuat banyak orang menjadi ragu ter
 
 #### 2.5.1 UU ITE
 <p>
-Berdasarkan UU ITE harusnya perusahaan mengelola sistem supaya tetap stabil dan aman diakses oleh pengguna, jika pada saat update sistem terjadi masalah yang merugikan pengguna, maka perusahaan wajib bertanggung jawab seperti misal gara" update software kemudian terjadi masalah pada sistem, sehingga menimbulkan dampak bagi orang banyak, seperti jutaan perangkat Windows mengalami Blue Screen of Death (BSOD), bandara penerbangan menjadi tertunda, sistem layanan bank terganggu, seharusnya perusahaan itu sudah melakukan mengupdate sistem terlebih dahulu dan memastikan hasil ujiannya berhasil, sehingga bisa di sebarkan ke pengguna.
+Berdasarkan UU ITE, perusahaan yang mengelola sistem elektronik wajib menjaga sistem supaya tetap stabil, aman, dan bisa dipakai oleh pengguna. Hal ini sesuai dengan Pasal 15 ayat (1) UU ITE, yang menjelaskan bahwa penyelenggara sistem elektronik harus menjalankan sistem secara andal, aman, dan bertanggung jawab. Jika saat update justru terjadi gangguan yang merugikan pengguna, maka perusahaan harus bertanggung jawab. Contohnya, update software yang bermasalah membuat jutaan perangkat Windows mengalami Blue Screen of Death (BSOD), penerbangan tertunda, dan layanan bank ikut terganggu. Seharusnya perusahaan melakukan pengujian dulu dan memastikan update aman sebelum disebarkan ke pengguna.
 </p>
 
 #### 2.5.2 UU PDP
 <p>
- Berdasarkan UU UDP, perusahaan yang mengelola sistem harus menjaga data pribadi pengguna, seperti di studi kasus kita meskipun tidak ada pembobolan data, tapi perusahaan wajib memastikan gangguan tidak memberikan dampak pada data pengguna seperti contoh jika suatu sistem bank error kemudian ada data nasabah yang tidak bisa di akses, maka perusahaan bisa dimintai tanggung jawab sesuai aturan yang berlaku.
- 
+Berdasarkan UU PDP, perusahaan yang mengelola sistem juga wajib menjaga data pribadi pengguna. Hal ini sesuai dengan Pasal 35 UU PDP, yang menjelaskan bahwa pengendali data pribadi wajib melindungi dan menjaga keamanan data yang dikelola. Dalam kasus ini memang tidak ada pembobolan data, tapi perusahaan tetap harus memastikan gangguan sistem tidak berdampak ke data pengguna. Contohnya, kalau sistem bank error lalu data nasabah tidak bisa diakses atau ada masalah pada informasi pengguna, maka perusahaan bisa dimintai tanggung jawab sesuai aturan yang berlaku.
 </p>
 
 ### 2.6 Dampak Kasus
