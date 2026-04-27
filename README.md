@@ -47,7 +47,7 @@ Perkembangan teknologi saat ini semakin pesat, dimana berbagai sistem modern sal
 
 Microsoft selaku tim pengembangan, berpendapat bahwa gangguan ini berdampak ke 8,5 juta  pengguna windows, meskipun berdampak kurang dari 1% ke pengguna diseluruh dunia, tapi dampaknya bisa ke berbagai  sektor industri, karna perangkat yang di gunakan itu sanagat penting, seperti bandara, perbankan, rumah sakit, saham dan perusahaan besar lainnya.
 
-Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang ada didalam pengujian perangkat lunak, yang masih tidak tervalidasi, tetapi lolos dari proses pengujian dan sudah terlanjur disebarkan ke jutaan komputer, seharusnya perlu di lakukan proses testing dan quality control, terutama pada software yang memiliki akses lebih ke sistem operasi
+Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang ada didalam pengujian perangkat lunak, yang masih tidak tervalidasi, tetapi lolos dari proses pengujian dan sudah terlanjur disebarkan ke jutaan komputer, seharusnya perlu di lakukan proses testing dan quality control, terutama pada software yang memiliki akses lebih ke sistem operasi.
 
 </p>
 
