@@ -52,12 +52,12 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 </p>
 
 ### 1.2 Rumusan Masalah  
-1.	Bagaimana analisis kasus CrowdStrike Global Outage Juli 2024 berdasarkan etika?
+1.	Bagaimana kronologi terjadinya kasus global outage pada sistem CrowdStrike bulan Juli 2024?
 2.
 3. 	
 
 ### 1.3 Tujuan  
-1. 
+1. Mengetahui dan memahami kronologi kasus global outage CrowdStrike Juli 2024.
 2. 
 3. 
 <hr>
