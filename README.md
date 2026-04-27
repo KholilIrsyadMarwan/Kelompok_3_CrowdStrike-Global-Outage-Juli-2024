@@ -95,7 +95,7 @@ Dari prinsip tidak merugikan (non-maleficence), seorang profesional IT seharusny
 #### 2.4.3 Kehati-hatian
 Dari sisi kehati-hatian (due care), setiap update sistem, apalagi yang berhubungan langsung dengan sistem operasi, harus dilakukan dengan sangat hati-hati. Dalam kasus ini, kemungkinan besar analisis risiko belum dilakukan secara mendalam, dan tidak ada penanganan cepat saat masalah terjadi, sehingga dampaknya semakin luas.
 #### 2.4.4 Akuntabilitas
-TGerkait tanggung jawab (akuntabilitas), pihak CrowdStrike sudah mengakui kesalahan yang terjadi. Ini adalah langkah yang baik, tetapi tidak cukup. Perusahaan juga harus memberikan solusi yang cepat dan jelas agar pengguna tidak terus dirugikan.
+Terkait tanggung jawab (akuntabilitas), pihak CrowdStrike sudah mengakui kesalahan yang terjadi. Ini adalah langkah yang baik, tetapi tidak cukup. Perusahaan juga harus memberikan solusi yang cepat dan jelas agar pengguna tidak terus dirugikan.
 #### 2.4.5 Kepercayaan Publik
 Dari sisi kepercayaan publik, kejadian ini membuat banyak orang menjadi ragu terhadap sistem keamanan yang seharusnya melindungi mereka. Karena itu, perusahaan perlu memperbaiki sistem dan meningkatkan transparansi agar kepercayaan pengguna bisa kembali.
 
