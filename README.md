@@ -62,6 +62,7 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 1. Mengetahui dan memahami kronologi kasus global outage CrowdStrike Juli 2024.
 2. Mengidentifikasi penyebab terjadinya kesalahan sistem yang berdampak luas.
 3. Menganalisis dampak gangguan terhadap berbagai sektor industri.
+4. Mengkaji kasus berdasarkan etika profesi dan tanggung jawab perusahaan teknologi.
 <hr>
 
 <div align="center">
