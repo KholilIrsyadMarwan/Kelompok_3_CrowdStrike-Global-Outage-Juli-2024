@@ -73,7 +73,7 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
 ### 2.3 Analisis Berdasarkan Moral
 <p>
-  Secara moral, gangguan CrowdStrike menyebabkan kerugian yang sangat besar bagi semua masyarakat dikarenakan terganggunya layanan perbankan, lumpuhnya layanan publik, dan pembatalan penerbangan massal. CrowdStrike tidak memiliki niat untuk merugikan pengguna karena tujuan mereka adalah pembaruan untuk meningkatkan keamanan, tapi CrowdStrike tetap harus tanggung jawab atas kerugian tersebut. Gangguan ini menunjukkan turunnya tingkat kepercayaan publik, karena sistem yang harusnya melindungi telah menjadi kerusakan yang fatal. Untuk memulihkan kepercayaan publik, perusahaan harus memperbaiki sistem dengan cepat dan memulihkan pengguna yang terdampak.
+  Secara moral, gangguan CrowdStrike menyebabkan kerugian yang sangat besar bagi semua masyarakat dikarenakan terganggunya layanan perbankan, lumpuhnya layanan publik, dan pembatalan penerbangan massal. CrowdStrike tidak memiliki niat untuk merugikan pengguna karena tujuan mereka adalah pembaruan untuk meningkatkan keamanan, tapi CrowdStrike tetap harus tanggung jawab atas kerugian tersebut. Pengguna yang terdampak gangguan mengalami kerugian waktu dan biaya, maka perusahaan seharusnya memberikan kompensasi dan dukungan teknis. Gangguan ini menunjukkan turunnya tingkat kepercayaan publik, karena sistem yang harusnya melindungi telah menjadi kerusakan yang fatal. Untuk memulihkan kepercayaan publik, perusahaan harus memperbaiki sistem dengan cepat dan memulihkan pengguna yang terdampak. 
 </p>
 
 ### 2.4 Analisis Berdasarkan Etika Profesi
