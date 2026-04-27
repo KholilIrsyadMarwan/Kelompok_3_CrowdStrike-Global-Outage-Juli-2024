@@ -52,7 +52,7 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 </p>
 
 ### 1.2 Rumusan Masalah  
-1.	
+1.	Bagaimana analisis kasus CrowdStrike Global Outage Juli 2024 berdasarkan etika?
 2.
 3. 	
 
