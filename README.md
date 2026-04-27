@@ -1,7 +1,7 @@
 <div align="center">
  
 # LAPORAN ETIKA PROFESI  
-# ANALISIS KASUS CROWDSTRIKE GLOBAL OUTAGE JULI 2024
+# ANALISIS ETIKA DAN DAMPAK KASUS CROWDSTRIKE GLOBAL OUTAGE JULI 2024
 
 Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
