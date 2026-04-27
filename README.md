@@ -53,7 +53,7 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 
 ### 1.2 Rumusan Masalah  
 1.	Bagaimana kronologi terjadinya kasus global outage pada sistem CrowdStrike bulan Juli 2024?
-2.
+2. Apa penyebab utama terjadinya gangguan sistem yang mengakibatkan Blue Screen of Death (BSOD) pada perangkat berbasis Windows?
 3. 	
 
 ### 1.3 Tujuan  
