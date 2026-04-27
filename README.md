@@ -63,12 +63,12 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
 ### 2.1 Kronologi Kasus
 <p>
- 
+ Dalam Etika, 
 </p>
 
 ### 2.2 Analisis Berdasarkan Etika
 <p>
- 
+ Secara moral, gangguan CrowdStrike menyebabkan kerugian yang sangat besar bagi semua masyarakat dikarenakan terganggunya layanan publik dan pembatalan penerbangan massal. CrowdStrike tidak memiliki niat untuk merugikan pengguna karena tujuan mereka adalah pembaruan untuk meningkatkan keamanan, tapi CrowdStrike tetap harus tanggung jawab atas kerugian tersebut. Gangguan ini menunjukkan turunnya tingkat kepercayaan publik, karena sistem yang harusnya melindungi menjadi kerusakan yang fatal.
 </p>
 
 ### 2.3 Analisis Berdasarkan Moral
