@@ -63,7 +63,7 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
 ### 2.1 Kronologi Kasus
 <p>
- 
+ Insiden CrowdStrike 2024 adalah sebuah peristiwa sejumlah pengguna sistem operasi Microsoft Windows di beberapa dunia mengalami Layar Biru Maut yang terjadi sejak 19 Juli 2024. Akibatnya terjadi gangguan pada sistem penerbangan dan sistem perbankan di berbagai negara seperti Amerika Serikat dan Australia hingga ke Indonesia. Maskapai United Airlines, Delta Airlines, dan American Airlines yang semuanya berkantor pusat di Amerika Serikat telah mengeluarkan "penghentian sementara global" pada semua penerbangan mereka.Maskapai Virgin Australia dan Jetstar juga harus menunda atau membatalkan penerbangan, serta Supermarket dan perusahaan media penyiaraan di Australia harus lumpuh. Bandara Changi di Singapura juga terdampak, sehingga para petugas melakukan proses check-in secara manual. Menurut laporan dari sejumlah pengguna Microsoft Windows, gangguan terjadi setelah pengguna OS Windows melakukan update sistem keamanan CrowdStrike ke versi terbaru. CEO CrowdStrike George Kurtz menjelaskan gangguan massal tersebut akibat dari cacat yang ditemukan dalam pembaruan konten tunggal pada pemindai kelemahan Falcon Sensor untuk mesin berbasis Windows.
 </p>
 
 ### 2.2 Analisis Berdasarkan Etika
