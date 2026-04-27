@@ -92,7 +92,7 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 
 #### 2.5.1 UU ITE
 <p>
-Berdasarkan UU ITE haruusnya perusahaan mengelola sistem supaya tetap stabil dan aman diakses oleh pengguna, jika pada saat update sistem terjadi masalah yang merugikan pengguna, maka perusahaan wajib bertanggung jawab seperti misal gara" update software kemudian terjadi masalah pada sistem, sehingga menimbulkan dampak bagi orang banyak, seperti jutaan perangkat Windows mengalami Blue Screen of Death (BSOD),sistem bandara penerbangan menjadi tertunda, sistem layanan bank terganggu, seharusnya perusahaan itu sudah melakukan mengupdate sistem terlebih dahulu dan memastikan hasil ujiannya berhasil, sehingga bisa di sebarkan ke pengguna? disebarkan pengguna atau windows?
+Berdasarkan UU ITE harusnya perusahaan mengelola sistem supaya tetap stabil dan aman diakses oleh pengguna, jika pada saat update sistem terjadi masalah yang merugikan pengguna, maka perusahaan wajib bertanggung jawab seperti misal gara" update software kemudian terjadi masalah pada sistem, sehingga menimbulkan dampak bagi orang banyak, seperti jutaan perangkat Windows mengalami Blue Screen of Death (BSOD),sistem bandara penerbangan menjadi tertunda, sistem layanan bank terganggu, seharusnya perusahaan itu sudah melakukan mengupdate sistem terlebih dahulu dan memastikan hasil ujiannya berhasil, sehingga bisa di sebarkan ke pengguna? disebarkan pengguna atau windows?
 </p>
 
 #### 2.5.2 UU PDP
