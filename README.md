@@ -102,7 +102,7 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 <p>
 </p>
 
-## 2.7 Solusi dan Pencegahan
+### 2.7 Solusi dan Pencegahan
 
 <hr>
 
