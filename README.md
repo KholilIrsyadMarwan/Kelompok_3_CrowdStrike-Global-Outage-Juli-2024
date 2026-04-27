@@ -43,11 +43,11 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 ### 1.1 Latar Belakang  
 <p>
  
-Perkembangan teknologi saat ini semakin pesat, dimana berbagai sistem modern saling terhubung dan berpengaruh pada sektor industri, ketergantungan pada sistem membuat kesalahan kecil bisa memberikan dampak luas, dimana pada tanggal  19 juli 2024 terjadi kesalahan pada perusahaan CrowdStrike yang ingin melakukan pembaruan / update  perangkat lunak yang bernama Falcon Sensor untuk  program keamanan, yang harusnya melindungi sistem operasi Microsoft Windows, akan tetapi malah menampilkan Blue Screen of Death (BSOD), dan berdampak ke banyak komputer.
+Perkembangan teknologi saat ini semakin pesat, dimana berbagai sistem modern saling terhubung dan berpengaruh pada sektor industri, ketergantungan pada sistem membuat kesalahan kecil bisa memberikan dampak luas, dimana pada tanggal  19 juli 2024 terjadi kesalahan pada perusahaan CrowdStrike yang ingin melakukan pembaruan / update  perangkat lunak yang bernama Falcon Sensor untuk  program keamanan, yang harusnya melindungi sistem operasi Microsoft Windows, akan tetapi malah menampilkan Blue Screen of Death (BSOD), dan berdampak ke banyak komputer.[1]
 
-Microsoft selaku tim pengembangan, berpendapat bahwa gangguan ini berdampak ke 8,5 juta  pengguna windows, meskipun berdampak kurang dari 1% ke pengguna diseluruh dunia, tapi dampaknya bisa ke berbagai  sektor industri, karna perangkat yang di gunakan itu sanagat penting, seperti bandara, perbankan, rumah sakit, saham dan perusahaan besar lainnya.
+Microsoft selaku tim pengembangan, berpendapat bahwa gangguan ini berdampak ke 8,5 juta  pengguna windows, meskipun berdampak kurang dari 1% ke pengguna diseluruh dunia, tapi dampaknya bisa ke berbagai  sektor industri, karna perangkat yang di gunakan itu sanagat penting, seperti bandara, perbankan, rumah sakit, saham dan perusahaan besar lainnya.[2]
 
-Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang ada didalam pengujian perangkat lunak, yang masih tidak tervalidasi, tetapi lolos dari proses pengujian dan sudah terlanjur disebarkan ke jutaan komputer, seharusnya perlu di lakukan proses testing dan quality control, terutama pada software yang memiliki akses lebih ke sistem operasi.
+Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang ada didalam pengujian perangkat lunak, yang masih tidak tervalidasi, tetapi lolos dari proses pengujian dan sudah terlanjur disebarkan ke jutaan komputer, seharusnya perlu di lakukan proses testing dan quality control, terutama pada software yang memiliki akses lebih ke sistem operasi.[2]
 
 </p>
 
