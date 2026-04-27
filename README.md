@@ -74,12 +74,12 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 
 ### 2.2 Analisis Berdasarkan Etika
 <p>
- 
+ Dalam Etika, CrowdStrike memiliki tanggung jawab yang sangat besar untuk setiap pembaruan perangkat lunak yang aman dan pengujian ketat. Tetapi dengan gangguan ini, adanya cacat pada pembaruan Falcon Sensor yang belum dijalankan secara maksimal, dikarenakan dampak tersebut sangat luas sampai mengganggu penerbangan dan perbankan. Setelah insiden gangguan tersebut, perusahaan menjelaskan adanya gangguan merupakan bentuk penerapan transparansi, namun tetap diimbangi dengan komunikasi dan solusi untuk meminimalkan dampaknya.
 </p>
 
 ### 2.3 Analisis Berdasarkan Moral
 <p>
- 
+ Secara moral, gangguan CrowdStrike menyebabkan kerugian yang sangat besar bagi semua masyarakat dikarenakan terganggunya layanan perbankan, lumpuhnya layanan publik, dan pembatalan penerbangan massal. CrowdStrike tidak memiliki niat untuk merugikan pengguna karena tujuan mereka adalah pembaruan untuk meningkatkan keamanan, tapi CrowdStrike tetap harus tanggung jawab atas kerugian tersebut. Gangguan ini menunjukkan turunnya tingkat kepercayaan publik, karena sistem yang harusnya melindungi telah menjadi kerusakan yang fatal. Untuk memulihkan kepercayaan publik, perusahaan harus memperbaiki sistem dengan cepat dan memulihkan pengguna yang terdampak.
 </p>
 
 ### 2.4 Analisis Berdasarkan Etika Profesi
