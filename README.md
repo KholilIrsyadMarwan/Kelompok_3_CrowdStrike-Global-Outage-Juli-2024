@@ -63,6 +63,7 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 2. Mengidentifikasi penyebab terjadinya kesalahan sistem yang berdampak luas.
 3. Menganalisis dampak gangguan terhadap berbagai sektor industri.
 4. Mengkaji kasus berdasarkan etika profesi dan tanggung jawab perusahaan teknologi.
+5. Mengetahui penerapan aspek hukum terkait, khususnya UU ITE dan UU PDP dalam kasus ini.
 <hr>
 
 <div align="center">
