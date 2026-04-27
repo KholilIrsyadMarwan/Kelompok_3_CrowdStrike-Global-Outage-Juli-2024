@@ -42,7 +42,10 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
 ### 1.1 Latar Belakang  
 <p>
+ 
+Perkembangan teknologi saat ini semakin pesat, dimana berbagai sistem modern saling terhubung dan berpengaruh pada sektor industri, ketergantungan pada sistem membuat kesalahan kecil bisa memberikan dampak luas, dimana pada tanggal  19 juli 2024 terjadi kesalahan pada perusahaan CrowdStrike yang ingin melakukan pembaruan / update  perangkat lunak yang bernama Falcon Sensor untuk  program keamanan, yang harusnya melindungi sistem operasi Microsoft Windows, akan tetapi malah menampilkan Blue Screen of Death (BSOD), dan berdampak ke banyak komputer.
 
+ 
 </p>
 
 ### 1.2 Rumusan Masalah  
