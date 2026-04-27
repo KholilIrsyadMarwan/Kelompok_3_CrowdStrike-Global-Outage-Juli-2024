@@ -7,7 +7,7 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
  **Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom
  
-  <img width="200" height="200" alt="image" src="[https://github.com/user-attachments/assets/25bd4ab0-d168-4621-a5d0-39ec1bd23151](https://github.com/KholilIrsyadMarwan/Kelompok_3_CrowdStrike-Global-Outage-Juli-2024/blob/main/Logo_Universitas_Pancasila33.png)" />
+  <img width="200" height="200" alt="image" src="https://github.com/KholilIrsyadMarwan/Kelompok_3_CrowdStrike-Global-Outage-Juli-2024/blob/a2e3d298f5fe415c3581c38a51ff25815620492b/Logo_Universitas_Pancasila33.png" />
   
  <br><br>
  
