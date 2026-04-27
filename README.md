@@ -97,6 +97,8 @@ Berdasarkan UU ITE harusnya perusahaan mengelola sistem supaya tetap stabil dan 
 
 #### 2.5.2 UU PDP
 <p>
+ Berdasarkan UU UDP, perusahaan yang mengelola sistem harus menjaga data pribadi pengguna, seperti di studi kasus kita meskipun tidak ada pembobolan data, tapi perusahaan wajib memastikan gangguan tidak memberikan dampak pada data pengguna seperti contoh jika suatu sistem bank error kemudian ada data nasabah yang tidak bisa di akses, maka perusahaan bisa dimintai tanggung jawab sesuai aturan yang berlaku.
+ 
 </p>
 
 ### 2.6 Dampak Kasus
