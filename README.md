@@ -60,7 +60,7 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 
 ### 1.3 Tujuan  
 1. Mengetahui dan memahami kronologi kasus global outage CrowdStrike Juli 2024.
-2. 
+2. Mengidentifikasi penyebab terjadinya kesalahan sistem yang berdampak luas.
 3. 
 <hr>
 
