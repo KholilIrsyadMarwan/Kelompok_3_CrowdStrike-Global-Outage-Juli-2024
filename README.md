@@ -87,6 +87,17 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 </p>
 
 ### 2.4 Analisis Berdasarkan Etika Profesi
+Kasus CrowdStrike pada Juli 2024 menunjukkan bahwa kesalahan kecil dalam sistem teknologi bisa berdampak sangat besar. Jika dilihat dari etika profesi di bidang teknologi informasi, ada beberapa hal penting yang bisa dianalisis dari kejadian ini.
+#### 2.4.1 Tanggung Jawab Profesional
+Dari sisi tanggung jawab profesional, perusahaan seharusnya memastikan bahwa setiap pembaruan sistem sudah benar-benar aman sebelum digunakan oleh banyak orang. Namun, dalam kasus ini, update pada Falcon Sensor justru menyebabkan banyak komputer mengalami Blue Screen of Death (BSOD). Hal ini menandakan bahwa proses pengujian dan pengecekan masih belum maksimal.
+#### 2.4.2 Prinsip Tidak Merugikan
+Dari prinsip tidak merugikan (non-maleficence), seorang profesional IT seharusnya menghindari hal-hal yang bisa merugikan pengguna. Walaupun gangguan ini bukan karena serangan hacker, dampaknya tetap besar, seperti terganggunya penerbangan, perbankan, dan layanan penting lainnya. Artinya, kesalahan teknis tetap bisa dianggap melanggar etika jika merugikan banyak pihak.
+#### 2.4.3 Kehati-hatian
+Dari sisi kehati-hatian (due care), setiap update sistem, apalagi yang berhubungan langsung dengan sistem operasi, harus dilakukan dengan sangat hati-hati. Dalam kasus ini, kemungkinan besar analisis risiko belum dilakukan secara mendalam, dan tidak ada penanganan cepat saat masalah terjadi, sehingga dampaknya semakin luas.
+#### 2.4.4 Akuntabilitas
+TGerkait tanggung jawab (akuntabilitas), pihak CrowdStrike sudah mengakui kesalahan yang terjadi. Ini adalah langkah yang baik, tetapi tidak cukup. Perusahaan juga harus memberikan solusi yang cepat dan jelas agar pengguna tidak terus dirugikan.
+#### 2.4.5 Kepercayaan Publik
+Dari sisi kepercayaan publik, kejadian ini membuat banyak orang menjadi ragu terhadap sistem keamanan yang seharusnya melindungi mereka. Karena itu, perusahaan perlu memperbaiki sistem dan meningkatkan transparansi agar kepercayaan pengguna bisa kembali.
 
 ### 2.5 Tinjauan Hukum
 
