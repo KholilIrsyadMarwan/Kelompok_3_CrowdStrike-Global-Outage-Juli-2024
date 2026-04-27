@@ -74,7 +74,7 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 
 ### 2.2 Analisis Berdasarkan Etika
 <p>
- Dalam Etika, CrowdStrike memiliki tanggung jawab yang sangat besar untuk setiap pembaruan perangkat lunak yang aman dan pengujian ketat. Tetapi dengan gangguan ini, adanya cacat pada pembaruan Falcon Sensor yang belum dijalankan secara maksimal, dikarenakan dampak tersebut sangat luas sampai mengganggu penerbangan dan perbankan. Setelah insiden gangguan tersebut, perusahaan menjelaskan adanya gangguan merupakan bentuk penerapan transparansi, namun tetap diimbangi dengan komunikasi dan solusi untuk meminimalkan dampaknya.
+ Dalam Etika, CrowdStrike memiliki tanggung jawab yang sangat besar untuk setiap pembaruan perangkat lunak yang aman dan pengujian ketat. Tetapi dengan gangguan ini, adanya cacat pada pembaruan Falcon Sensor yang belum dijalankan secara maksimal, dikarenakan dampak tersebut sangat luas sampai mengganggu penerbangan dan perbankan. Setiap teknologi harus tahap pengujian menyeluruh sebelum rilis ke global, dengan gangguan ini kemungkinan adanya kurang pengujian pada berbagai lingkungan sistem, termasuk Microsoft Windows, maka yang seharusnya pembaruan adalah meningkatkan keamanan malah menimbulkan kerusakan sistem yang serius. Setelah insiden gangguan tersebut, perusahaan menjelaskan adanya gangguan merupakan bentuk penerapan transparansi, namun tetap diimbangi dengan komunikasi dan solusi untuk meminimalkan dampaknya.
 </p>
 
 ### 2.3 Analisis Berdasarkan Moral
