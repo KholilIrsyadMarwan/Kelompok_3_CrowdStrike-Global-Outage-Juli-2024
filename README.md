@@ -113,11 +113,19 @@ Berdasarkan UU ITE harusnya perusahaan mengelola sistem supaya tetap stabil dan 
 </p>
 
 ### 2.6 Dampak Kasus
-<p>
-</p>
+Kasus CrowdStrike Global Outage Juli 2024 memberi dampak yang cukup besar ke banyak sektor. Jutaan perangkat Windows mengalami Blue Screen of Death (BSOD) sehingga komputer tidak bisa dipakai seperti biasa. Akibatnya, banyak aktivitas kerja dan layanan ikut terganggu.
+
+Di bidang transportasi, beberapa bandara mengalami keterlambatan penerbangan karena sistem check-in dan operasional bermasalah. Di sektor perbankan, layanan seperti ATM, mobile banking, dan transaksi online sempat terganggu. Rumah sakit juga ikut terkena dampaknya karena beberapa sistem pelayanan pasien dan administrasi tidak berjalan normal.
+
+Selain itu, banyak perusahaan mengalami kerugian karena pekerjaan tertunda, pelayanan melambat, dan produktivitas menurun. Kasus ini menunjukkan bahwa kesalahan kecil pada sistem teknologi bisa berdampak besar kalau digunakan di banyak tempat.
 
 ### 2.7 Solusi dan Pencegahan
+Untuk mencegah terulangnya kasus seperti insiden CrowdStrike Juli 2024, diperlukan beberapa langkah perbaikan baik dari sisi teknis maupun etika profesi.
 
+1. Perusahaan harus meningkatkan proses pengujian (testing) sebelum merilis pembaruan sistem, terutama untuk perangkat lunak yang memiliki akses langsung ke sistem operasi. Pengujian perlu dilakukan secara menyeluruh agar kesalahan dapat terdeteksi lebih awal.
+2. Diperlukan penerapan quality control yang lebih ketat. Setiap pembaruan harus melalui tahap validasi berlapis sebelum didistribusikan ke pengguna secara luas. Selain itu, perusahaan juga perlu menyediakan mekanisme rollback system untuk mengembalikan sistem ke versi sebelumnya jika terjadi kesalahan.
+3. Perusahaan harus meningkatkan manajemen risiko dengan melakukan analisis dampak sebelum melakukan update global agar potensi gangguan dapat diminimalkan.
+4. Perusahaan harus menjunjung tinggi tanggung jawab dan transparansi kepada publik. Jika terjadi kesalahan, perusahaan wajib memberikan informasi yang jelas, solusi yang cepat, serta melakukan evaluasi agar kejadian serupa tidak terulang.
 <hr>
 
 <div align="center">
@@ -126,14 +134,18 @@ Berdasarkan UU ITE harusnya perusahaan mengelola sistem supaya tetap stabil dan 
 </div>
 
 ### 3.1 Kesimpulan 
-<p>
- 
-</p>
+Dari pembahasan yang sudah dilakukan, bisa disimpulkan bahwa kasus CrowdStrike pada Juli 2024 terjadi karena kesalahan dalam pembaruan sistem, bukan karena serangan siber. Walaupun secara persentase tidak terlalu besar, dampaknya terasa luas karena menyerang sistem penting seperti penerbangan, perbankan, dan layanan publik lainnya.
+
+Kasus ini menunjukkan bahwa dalam dunia teknologi, kesalahan kecil bisa berdampak besar jika tidak ditangani dengan baik. Dari sisi etika profesi, perusahaan memiliki tanggung jawab untuk memastikan sistem yang dibuat sudah aman dan layak digunakan sebelum dirilis. Selain itu, penting juga untuk selalu berhati-hati, melakukan pengujian yang matang, dan tidak merugikan pengguna.
 
 ### 3.2 Saran  
-<p>
- 
-</p>
+Berdasarkan kasus yang terjadi, ada beberapa saran yang bisa diberikan:
+
+1. Perusahaan perlu meningkatkan proses pengujian sistem sebelum merilis pembaruan.
+2. Perlu adanya sistem cadangan seperti rollback untuk mengatasi jika terjadi error.
+3. Perusahaan harus lebih cepat dan transparan dalam memberikan informasi kepada pengguna.
+4. Pengembang harus lebih memperhatikan aspek etika profesi dalam setiap proses kerja.
+5. Pemerintah dapat memperkuat pengawasan terhadap sistem teknologi yang berdampak luas.
 
 <hr>
 
