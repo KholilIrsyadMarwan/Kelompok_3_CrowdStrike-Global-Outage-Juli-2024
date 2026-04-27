@@ -130,6 +130,12 @@ Berdasarkan UU ITE harusnya perusahaan mengelola sistem supaya tetap stabil dan 
 <h2>DAFTAR PUSTAKA</h2>
 </div>
 
+| No | Referensi |
+|----|-----------|
+| [1] | “CrowdStrike: The Global IT Outage of 2024,” ResearchGate. [Online]. Available: https://www.researchgate.net/publication/385002313_Crowdstrike_The_Global_IT_Outage_of_2024. [Accessed: Apr. 28, 2026]. |
+| [2] | BBC News Indonesia, “Gangguan global CrowdStrike dan dampaknya,” 2024. [Online]. Available: https://www.bbc.com/indonesia/articles/cye059570xko. [Accessed: Apr. 28, 2026]. |
+
+
 ---
 
 Link Presentasi: https://www.canva.com/design/DAHH-J3TpbA/1DtDQ5taTE28s04o3gWWZA/edit?ui=eyJBIjp7fX0
