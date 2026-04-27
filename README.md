@@ -56,6 +56,7 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 2. Apa penyebab utama terjadinya gangguan sistem yang mengakibatkan Blue Screen of Death (BSOD) pada perangkat berbasis Windows?
 3. Bagaimana dampak gangguan tersebut terhadap berbagai sektor industri seperti perbankan, transportasi, dan layanan kesehatan?
 4. Bagaimana analisis kasus ini ditinjau dari etika profesi dan tanggung jawab perusahaan di bidang teknologi informasi?
+5. Bagaimana aspek hukum yang berkaitan dengan kasus ini berdasarkan UU ITE dan UU PDP di Indonesia?
 
 ### 1.3 Tujuan  
 1. Mengetahui dan memahami kronologi kasus global outage CrowdStrike Juli 2024.
