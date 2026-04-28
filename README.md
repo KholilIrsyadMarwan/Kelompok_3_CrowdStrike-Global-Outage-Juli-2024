@@ -3,7 +3,7 @@
 # LAPORAN ETIKA PROFESI  
 # ANALISIS ETIKA DAN DAMPAK KASUS CROWDSTRIKE GLOBAL OUTAGE JULI 2024
 
-Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
+Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (A)
 
  **Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom
  
