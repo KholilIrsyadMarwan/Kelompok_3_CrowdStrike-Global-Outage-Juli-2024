@@ -108,14 +108,18 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 </div>
 
 ### 3.1 Kesimpulan 
-<p>
- 
-</p>
+Dari pembahasan yang sudah dilakukan, bisa disimpulkan bahwa kasus CrowdStrike pada Juli 2024 terjadi karena kesalahan dalam pembaruan sistem, bukan karena serangan siber. Walaupun secara persentase tidak terlalu besar, dampaknya terasa luas karena menyerang sistem penting seperti penerbangan, perbankan, dan layanan publik lainnya.
+
+Kasus ini menunjukkan bahwa dalam dunia teknologi, kesalahan kecil bisa berdampak besar jika tidak ditangani dengan baik. Dari sisi etika profesi, perusahaan memiliki tanggung jawab untuk memastikan sistem yang dibuat sudah aman dan layak digunakan sebelum dirilis. Selain itu, penting juga untuk selalu berhati-hati, melakukan pengujian yang matang, dan tidak merugikan pengguna.
 
 ### 3.2 Saran  
-<p>
- 
-</p>
+Berdasarkan kasus yang terjadi, ada beberapa saran yang bisa diberikan:
+
+1. Perusahaan perlu meningkatkan proses pengujian sistem sebelum merilis pembaruan.
+2. Perlu adanya sistem cadangan seperti rollback untuk mengatasi jika terjadi error.
+3. Perusahaan harus lebih cepat dan transparan dalam memberikan informasi kepada pengguna.
+4. Pengembang harus lebih memperhatikan aspek etika profesi dalam setiap proses kerja.
+5. Pemerintah dapat memperkuat pengawasan terhadap sistem teknologi yang berdampak luas.
 
 <hr>
 
