@@ -103,7 +103,7 @@ Dari sisi kepercayaan publik, kejadian ini membuat banyak orang menjadi ragu ter
 
 #### 2.5.1 UU ITE
 <p>
-Berdasarkan UU ITE, perusahaan yang mengelola sistem elektronik wajib menjaga sistem supaya tetap stabil, aman, dan bisa dipakai oleh pengguna. Hal ini sesuai dengan Pasal 15 ayat (1) UU ITE, yang menjelaskan bahwa penyelenggara sistem elektronik harus menjalankan sistem secara andal, aman, dan bertanggung jawab. Jika saat update justru terjadi gangguan yang merugikan pengguna, maka perusahaan harus bertanggung jawab. Contohnya, update software yang bermasalah membuat jutaan perangkat Windows mengalami Blue Screen of Death (BSOD), penerbangan tertunda, dan layanan bank ikut terganggu. Seharusnya perusahaan melakukan pengujian dulu dan memastikan update aman sebelum disebarkan ke pengguna.
+Berdasarkan UU ITE, Perusahaan yang mengelola sistem elektronik wajib menjaga sistem supaya tetap stabil, aman, dan bisa dipakai oleh pengguna. Hal ini sesuai dengan Pasal 15 ayat (1) UU ITE, yang menjelaskan bahwa penyelenggara sistem elektronik harus menjalankan sistem secara andal, aman, dan bertanggung jawab. Jika saat update justru terjadi gangguan yang merugikan pengguna, maka perusahaan harus bertanggung jawab. Contohnya, update software yang bermasalah membuat jutaan perangkat Windows mengalami Blue Screen of Death (BSOD), penerbangan tertunda, dan layanan bank ikut terganggu. Seharusnya perusahaan melakukan pengujian dulu dan memastikan update aman sebelum disebarkan ke pengguna.
 </p>
 
 #### 2.5.2 UU PDP
@@ -114,7 +114,7 @@ Berdasarkan UU PDP, perusahaan yang mengelola sistem juga wajib menjaga data pri
 ### 2.6 Dampak Kasus
 Kasus CrowdStrike Global Outage Juli 2024 memberi dampak yang cukup besar ke banyak sektor. Jutaan perangkat Windows mengalami Blue Screen of Death (BSOD) sehingga komputer tidak bisa dipakai seperti biasa. Akibatnya, banyak aktivitas kerja dan layanan ikut terganggu.
 
-Di bidang transportasi, beberapa bandara mengalami keterlambatan penerbangan karena sistem check-in dan operasional bermasalah. Di sektor perbankan, layanan seperti ATM, mobile banking, dan transaksi online sempat terganggu. Rumah sakit juga ikut terkena dampaknya karena beberapa sistem pelayanan pasien dan administrasi tidak berjalan normal.
+Di bidang Transportasi, beberapa bandara mengalami keterlambatan penerbangan karena sistem check-in dan operasional bermasalah. Di sektor perbankan, layanan seperti ATM, mobile banking, dan transaksi online sempat terganggu. Rumah sakit juga ikut terkena dampaknya karena beberapa sistem pelayanan pasien dan administrasi tidak berjalan normal.
 
 Selain itu, banyak perusahaan mengalami kerugian karena pekerjaan tertunda, pelayanan melambat, dan produktivitas menurun. Kasus ini menunjukkan bahwa kesalahan kecil pada sistem teknologi bisa berdampak besar kalau digunakan di banyak tempat.
 
