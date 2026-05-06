@@ -1,4 +1,4 @@
-<div align="center">
+<img width="3840" height="1080" alt="gambar" src="https://github.com/user-attachments/assets/729f951e-40d4-40c2-a1c8-7e5122ddb4d6" /><div align="center">
  
 # LAPORAN ETIKA PROFESI  
 # ANALISIS ETIKA DAN DAMPAK KASUS CROWDSTRIKE GLOBAL OUTAGE JULI 2024
@@ -161,3 +161,10 @@ Berdasarkan kasus yang terjadi, ada beberapa saran yang bisa diberikan:
 ---
 
 Link Presentasi: https://www.canva.com/design/DAHH-J3TpbA/1DtDQ5taTE28s04o3gWWZA/edit?ui=eyJBIjp7fX0
+
+### LINK PRESENTASI YOUTUBE 
+[![TUGAS PRESENTASI STUDI KASUS CROWDSTRIKE GLOBAL OUTAGE | KELOMPOK 3 - ETIKA PROFESI - A](https://img.youtube.com/vi/UdNgffX3-Us/hqdefault.jpg)](https://youtu.be/UdNgffX3-Us)
+
+
+
+
