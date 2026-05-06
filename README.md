@@ -1,4 +1,4 @@
-<img width="3840" height="1080" alt="gambar" src="https://github.com/user-attachments/assets/729f951e-40d4-40c2-a1c8-7e5122ddb4d6" /><div align="center">
+<div align="center">
  
 # LAPORAN ETIKA PROFESI  
 # ANALISIS ETIKA DAN DAMPAK KASUS CROWDSTRIKE GLOBAL OUTAGE JULI 2024
