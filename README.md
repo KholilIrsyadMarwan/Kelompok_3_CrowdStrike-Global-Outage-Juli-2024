@@ -90,7 +90,9 @@ Laporan ini  berdasarkan informasi yang diperoleh dari CNN Indonesia, BBC News I
 <p align="justify">
 Kasus CrowdStrike Global Outage memperlihatkan bahwa teknologi yang canggih tetap bisa menimbulkan masalah jika tidak disertai dengan tanggung jawab. Gangguan yang terjadi akibat pembaruan sistem berdampak pada banyak pengguna dan berbagai sektor penting. Karena itu, kasus ini dapat dianalisis menggunakan nilai-nilai Pancasila, khususnya sila kedua dan sila kelima dan Nilai Kepancasilaan UP (Integritas, Kepedulian, Harmonis, Kolaboratif, Profesionalisme).
 </p>
+<p align="justify">
 Pada Sila Kedua, Kemanusiaan yang Adil dan Beradab, terdapat nilai yang mengajarkan bahwa setiap tindakan harus memperhatikan dampaknya terhadap orang lain. Dalam kasus ini, pembaruan yang dirilis menyebabkan jutaan perangkat Windows mengalami gangguan sehingga berbagai layanan penting ikut terdampak. seharusnya perusahaan perlu lebih berhati-hati sebelum merilis pembaruan kepada pengguna. Proses pengujian yang dilakukan secara menyeluruh menjadi langkah penting untuk mengurangi risiko kesalahan yang dapat merugikan banyak pihak. sehingga perusahaan dicap sebagai perusahaan yang bertanggung jawab untuk menjaga keamanan dan kenyamanan para penggunanya.
+</p>
 <p align="justify">
 Sementara itu, Sila Kelima, Keadilan Sosial bagi Seluruh Rakyat Indonesia, mengajarkan bahwa setiap pengguna berhak mendapatkan pelayanan yang baik dan adil. Dalam kasus CrowdStrike, gangguan yang terjadi tidak hanya dialami oleh satu perusahaan, tetapi juga memengaruhi banyak organisasi di berbagai negara. CrowdStrike harus bertanggung jawab dengan memberikan informasi yang terbuka, segera memperbaiki kesalahan, dan membantu proses pemulihan agar seluruh pengguna dapat kembali menggunakan sistem dengan normal.
 </p>
