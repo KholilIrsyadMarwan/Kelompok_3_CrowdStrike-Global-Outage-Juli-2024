@@ -254,9 +254,40 @@ Keempat teori etika memberikan sudut pandang yang berbeda terhadap insiden Crowd
 Secara keseluruhan, insiden CrowdStrike Global Outage menunjukkan bahwa tanggung jawab etis tidak hanya berkaitan dengan penanganan setelah insiden, tetapi juga mencakup pencegahan melalui proses pengujian perangkat lunak yang lebih ketat sebelum pembaruan didistribusikan kepada pelanggan.
 
 ### 2.5 Lensa Kelima 
+#### 2.5.1 Analisis sila 1–5 yang relevan
 <p>
- 
+<p align="justify">
+Pada Sila Kedua, Kemanusiaan yang Adil dan Beradab, terdapat nilai yang mengajarkan bahwa setiap tindakan harus memperhatikan dampaknya terhadap orang lain. Dalam kasus ini, pembaruan yang dirilis menyebabkan jutaan perangkat Windows mengalami gangguan sehingga berbagai layanan penting ikut terdampak. seharusnya perusahaan perlu lebih berhati-hati sebelum merilis pembaruan kepada pengguna. Proses pengujian yang dilakukan secara menyeluruh menjadi langkah penting untuk mengurangi risiko kesalahan yang dapat merugikan banyak pihak. sehingga perusahaan dicap sebagai perusahaan yang bertanggung jawab untuk menjaga keamanan dan kenyamanan para penggunanya.
 </p>
+
+<p align="justify">
+Sementara itu, Sila Kelima, Keadilan Sosial bagi Seluruh Rakyat Indonesia, mengajarkan bahwa setiap pengguna berhak mendapatkan pelayanan yang baik dan adil. Dalam kasus CrowdStrike, gangguan yang terjadi tidak hanya dialami oleh satu perusahaan, tetapi juga memengaruhi banyak organisasi di berbagai negara. CrowdStrike harus bertanggung jawab dengan memberikan informasi yang terbuka, segera memperbaiki kesalahan, dan membantu proses pemulihan agar seluruh pengguna dapat kembali menggunakan sistem dengan normal.
+</p>
+
+####  Nilai Kepancasilaan UP (Integritas, Kepedulian, Harmonis, Kolaboratif, Profesionalisme).
+
+<p align="justify">
+Integritas
+Perusahaan perlu bersikap jujur dengan mengakui bahwa gangguan terjadi karena pembaruan yang mereka rilis. Sikap terbuka seperti ini penting agar pengguna mengetahui penyebab masalah dan perusahaan dapat mempertanggungjawabkan tindakannya.
+</p>
+<p align="justify">
+Kepedulian
+Setelah gangguan terjadi, perusahaan perlu memperhatikan dampak yang dirasakan oleh para pengguna. Upaya memberikan bantuan, informasi, dan mempercepat proses pemulihan merupakan bentuk kepedulian terhadap organisasi maupun masyarakat yang terdampak.
+</p>
+<p align="justify">
+Harmonis
+Nilai harmonis terlihat dari pentingnya menjaga hubungan baik antara perusahaan dengan pengguna, mitra, dan pihak lain yang terdampak. Komunikasi yang terbuka selama proses penanganan insiden membantu menjaga kepercayaan dan mengurangi kesalahpahaman.
+</p>
+<p align="justify">
+Kolaboratif
+Kasus ini menunjukkan bahwa penyelesaian masalah tidak dapat dilakukan oleh satu pihak saja. CrowdStrike bekerja sama dengan Microsoft dan berbagai organisasi untuk mempercepat proses pemulihan sistem sehingga layanan dapat kembali berjalan dengan baik.
+</p>
+<p align="justify">
+Profesionalisme
+Kasus ini menjadi pengingat bahwa setiap pembaruan perangkat lunak harus melalui proses pengujian yang matang sebelum dirilis. Profesionalisme juga terlihat dari kemampuan perusahaan dalam menangani insiden secara cepat, memberikan solusi, dan terus melakukan evaluasi agar kesalahan serupa tidak terulang.
+</p>
+</p>
+
 
 ### 2.6 Kode Etika Profesi
 <p align="justify">
@@ -267,6 +298,7 @@ Secara keseluruhan, insiden CrowdStrike Global Outage menunjukkan bahwa tanggung
 </p>
 
 ### 2.7 Analsisi Regulasi dan Hukum
+
 
 #### 2.7.1 UU ITE
 <p>
