@@ -154,7 +154,7 @@ Berdasarkan kasus yang terjadi, ada beberapa saran yang bisa diberikan:
 
 | No | Referensi |
 |----|-----------|
-| [1] | “CrowdStrike: The Global IT Outage of 2024,” ResearchGate. [Online]. Available: https://www.researchgate.net/publication/385002313_Crowdstrike_The_Global_IT_Outage_of_2024. [Accessed: Apr. 28, 2026]. |
+| [1] Tempo, “Gangguan Perangkat Windows, Ini Cara agar Kasus CrowdStrike Tidak Terulang,” Tempo, Jul. 22, 2024. [Online]. Available: https://www.tempo.co/digital/gangguan-perangkat-windows-ini-cara-agar-kasus-crowdstrike-tidak-terulang-37217. [Accessed: Apr. 28, 2026]. |
 | [2] | BBC News Indonesia, “Gangguan global CrowdStrike dan dampaknya,” 2024. [Online]. Available: https://www.bbc.com/indonesia/articles/cye059570xko. [Accessed: Apr. 28, 2026]. |
 
 
