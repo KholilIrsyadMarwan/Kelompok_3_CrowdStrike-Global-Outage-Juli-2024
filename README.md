@@ -42,28 +42,18 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
 ### 1.1 Latar Belakang  
 <p>
- 
-Perkembangan teknologi saat ini semakin pesat, dimana berbagai sistem modern saling terhubung dan berpengaruh pada sektor industri, ketergantungan pada sistem membuat kesalahan kecil bisa memberikan dampak luas, dimana pada tanggal  19 juli 2024 terjadi kesalahan pada perusahaan CrowdStrike yang ingin melakukan pembaruan / update  perangkat lunak yang bernama Falcon Sensor untuk  program keamanan, yang harusnya melindungi sistem operasi Microsoft Windows, akan tetapi malah menampilkan Blue Screen of Death (BSOD), dan berdampak ke banyak komputer.[1]
-
-Microsoft selaku tim pengembangan, berpendapat bahwa gangguan ini berdampak ke 8,5 juta  pengguna windows, meskipun berdampak kurang dari 1% ke pengguna diseluruh dunia, tapi dampaknya bisa ke berbagai  sektor industri,seperti bandara, perbankan, rumah sakit, saham dan perusahaan besar lainnya.[2]
-
-Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang ada didalam pengujian perangkat lunak, yang masih tidak tervalidasi, tetapi lolos dari proses pengujian dan sudah terlanjur disebarkan ke jutaan komputer, seharusnya perlu di lakukan proses testing dan quality control, terutama pada software yang memiliki akses lebih ke sistem operasi.[2]
 
 </p>
 
 ### 1.2 Rumusan Masalah  
-1.	Bagaimana kronologi terjadinya kasus global outage pada sistem CrowdStrike bulan Juli 2024?
-2. Apa penyebab utama terjadinya gangguan sistem yang mengakibatkan Blue Screen of Death (BSOD) pada perangkat berbasis Windows?
-3. Bagaimana dampak gangguan tersebut terhadap berbagai sektor industri seperti perbankan, transportasi, dan layanan kesehatan?
-4. Bagaimana analisis kasus ini ditinjau dari etika profesi dan tanggung jawab perusahaan di bidang teknologi informasi?
-5. Bagaimana aspek hukum yang berkaitan dengan kasus ini berdasarkan UU ITE dan UU PDP di Indonesia?
+1.	
+2.
+3. 	
 
 ### 1.3 Tujuan  
-1. Mengetahui dan memahami kronologi kasus global outage CrowdStrike Juli 2024.
-2. Mengidentifikasi penyebab terjadinya kesalahan sistem yang berdampak luas.
-3. Menganalisis dampak gangguan terhadap berbagai sektor industri.
-4. Mengkaji kasus berdasarkan etika profesi dan tanggung jawab perusahaan teknologi.
-5. Mengetahui penerapan aspek hukum terkait, khususnya UU ITE dan UU PDP dalam kasus ini.
+1. 
+2. 
+3. 
 <hr>
 
 <div align="center">
@@ -72,51 +62,86 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 </div>
 
 ### 2.1 Kronologi Kasus
+
+### 2.2 Fakta Kunci & Catatan Transparansi
+<p>
+<p align="justify">
+Pada 19 Juli 2024, CrowdStrike merilis pembaruan (update) untuk sensor Falcon yang digunakan pada sistem operasi Windows. Setelah pembaruan tersebut diterapkan, banyak perangkat mengalami Blue Screen of Death (BSOD) sehingga tidak dapat digunakan, dan kasus ini berdampak pada berbagai sektor, seperti maskapai penerbangan, rumah sakit, perbankan, instansi pemerintah, dan perusahaan swasta di berbagai negara. Berdasarkan penjelasan resmi CrowdStrike, kejadian ini disebabkan oleh kesalahan pada pembaruan yang dirilis dan bukan akibat serangan siber. Microsoft juga ikut membantu proses pemulihan agar perangkat yang terdampak dapat kembali beroperasi.
+</p>
+<p align="justify">
+Selain menimbulkan gangguan operasional, kejadian ini juga berdampak pada aspek hukum dan keuangan. Salah satu perusahaan yang terdampak, yaitu Delta Air Lines, berencana mengajukan gugatan terhadap CrowdStrike dengan nilai tuntutan sekitar US$500 juta atau sekitar Rp7,7 triliun. Kasus ini menunjukkan bahwa kesalahan dalam pembaruan perangkat lunak tidak hanya berdampak pada sisi teknis, tetapi juga dapat menimbulkan kerugian finansial yang besar bagi perusahaan maupun pengguna.
+</p>
+<p align="justify">
+Meskipun penyebab utama gangguan telah dijelaskan oleh CrowdStrike, masih terdapat beberapa informasi yang belum dipublikasikan secara rinci. Hingga saat ini belum ada penjelasan resmi mengenai bagaimana proses pengujian (Quality Assurance atau QA) dilakukan sebelum pembaruan dirilis maupun siapa yang memberikan persetujuan akhir terhadap pembaruan tersebut. Belum ada data resmi yang menunjukkan total kerugian seluruh organisasi yang terdampak di berbagai negara.
+</p>
+<p align="justify">
+Laporan ini  berdasarkan informasi yang diperoleh dari CNN Indonesia, BBC News Indonesia, Tempo, serta pernyataan resmi dari CrowdStrike dan Microsoft. Penulis hanya menggunakan informasi yang sudah dipublikasikan secara resmi. Sementara itu, hal-hal yang belum memiliki penjelasan atau bukti yang jelas tidak dimasukkan sebagai fakta, tetapi dianggap sebagai informasi yang masih perlu dikonfirmasi. Dengan demikian, pembahasan dalam laporan ini diharapkan lebih dapat dipercaya dan tidak dibuat berdasarkan perkiraan semata.
+</p>
+</p>
+
+### 2.3 Pemetaan Pemangku Kepentingan (Stakeholder Mapping)
+
+
+### 2.4 Analisis Kasus Menggunakan Empat Teori Etika
+
+
+### 2.5 Lensa Kelima 
+<p>
+<p align="justify">
+Kasus CrowdStrike Global Outage memperlihatkan bahwa teknologi yang canggih tetap bisa menimbulkan masalah jika tidak disertai dengan tanggung jawab. Gangguan yang terjadi akibat pembaruan sistem berdampak pada banyak pengguna dan berbagai sektor penting. Karena itu, kasus ini dapat dianalisis menggunakan nilai-nilai Pancasila, khususnya sila kedua dan sila kelima dan Nilai Kepancasilaan UP (Integritas, Kepedulian, Harmonis, Kolaboratif, Profesionalisme).
+</p>
+Pada Sila Kedua, Kemanusiaan yang Adil dan Beradab, terdapat nilai yang mengajarkan bahwa setiap tindakan harus memperhatikan dampaknya terhadap orang lain. Dalam kasus ini, pembaruan yang dirilis menyebabkan jutaan perangkat Windows mengalami gangguan sehingga berbagai layanan penting ikut terdampak. seharusnya perusahaan perlu lebih berhati-hati sebelum merilis pembaruan kepada pengguna. Proses pengujian yang dilakukan secara menyeluruh menjadi langkah penting untuk mengurangi risiko kesalahan yang dapat merugikan banyak pihak. sehingga perusahaan dicap sebagai perusahaan yang bertanggung jawab untuk menjaga keamanan dan kenyamanan para penggunanya.
+<p align="justify">
+Sementara itu, Sila Kelima, Keadilan Sosial bagi Seluruh Rakyat Indonesia, mengajarkan bahwa setiap pengguna berhak mendapatkan pelayanan yang baik dan adil. Dalam kasus CrowdStrike, gangguan yang terjadi tidak hanya dialami oleh satu perusahaan, tetapi juga memengaruhi banyak organisasi di berbagai negara. CrowdStrike harus bertanggung jawab dengan memberikan informasi yang terbuka, segera memperbaiki kesalahan, dan membantu proses pemulihan agar seluruh pengguna dapat kembali menggunakan sistem dengan normal.
+</p>
+<p align="justify">
+Integritas
+Perusahaan perlu bersikap jujur dengan mengakui bahwa gangguan terjadi karena pembaruan yang mereka rilis. Sikap terbuka seperti ini penting agar pengguna mengetahui penyebab masalah dan perusahaan dapat mempertanggungjawabkan tindakannya.
+</p>
+<p align="justify">
+Kepedulian
+Setelah gangguan terjadi, perusahaan perlu memperhatikan dampak yang dirasakan oleh para pengguna. Upaya memberikan bantuan, informasi, dan mempercepat proses pemulihan merupakan bentuk kepedulian terhadap organisasi maupun masyarakat yang terdampak.
+</p>
+<p align="justify">
+Harmonis
+Nilai harmonis terlihat dari pentingnya menjaga hubungan baik antara perusahaan dengan pengguna, mitra, dan pihak lain yang terdampak. Komunikasi yang terbuka selama proses penanganan insiden membantu menjaga kepercayaan dan mengurangi kesalahpahaman.
+</p>
+<p align="justify">
+Kolaboratif
+Kasus ini menunjukkan bahwa penyelesaian masalah tidak dapat dilakukan oleh satu pihak saja. CrowdStrike bekerja sama dengan Microsoft dan berbagai organisasi untuk mempercepat proses pemulihan sistem sehingga layanan dapat kembali berjalan dengan baik.
+</p>
+<p align="justify">
+Profesionalisme
+Kasus ini menjadi pengingat bahwa setiap pembaruan perangkat lunak harus melalui proses pengujian yang matang sebelum dirilis. Profesionalisme juga terlihat dari kemampuan perusahaan dalam menangani insiden secara cepat, memberikan solusi, dan terus melakukan evaluasi agar kesalahan serupa tidak terulang.
+</p>
+</p>
+
+### 2.6 Kode Etika Profesi
 <p>
  
 </p>
 
-### 2.2 Fakta Kunci dan Catatan Transparansi
-
-<p align="justify"> Berdasarkan informasi yang telah dipublikasikan secara resmi, diketahui bahwa pembaruan sensor Falcon yang dirilis pada 19 Juli 2024 menjadi penyebab utama terjadinya gangguan pada jutaan perangkat Windows. Dampak dari pembaruan tersebut menyebabkan banyak komputer mengalami <i>Blue Screen of Death</i> (BSOD), sehingga berbagai layanan penting tidak dapat beroperasi secara normal. CrowdStrike juga telah menyampaikan bahwa insiden ini bukan disebabkan oleh serangan siber, melainkan kesalahan pada pembaruan yang mereka rilis. Selain itu, Microsoft turut membantu proses pemulihan agar perangkat yang terdampak dapat kembali digunakan. </p>
-
-<p align="justify"> Meskipun penyebab utama insiden telah dijelaskan, masih terdapat beberapa informasi yang belum dipublikasikan secara rinci. Hingga saat ini CrowdStrike belum menjelaskan bagaimana proses pengujian (<i>Quality Assurance</i> atau QA) dilakukan sebelum pembaruan dirilis kepada pengguna. Perusahaan juga belum mengungkapkan secara jelas siapa yang bertanggung jawab dalam proses persetujuan akhir sebelum pembaruan tersebut didistribusikan. Di samping itu, besarnya kerugian yang dialami oleh masing-masing organisasi berbeda-beda sehingga tidak ada angka pasti yang dipublikasikan secara menyeluruh. </p>
-
-<p align="justify"> Oleh karena itu, pembahasan dalam laporan ini hanya menggunakan informasi yang berasal dari pernyataan resmi CrowdStrike, Microsoft, serta berbagai media yang memiliki kredibilitas seperti media tempo dan bbc. </p>
-
-### 2.3 Analisis Berdasarkan Moral
-<p>
- 
-</p>
-
-### 5. Lensa Kelima – Pancasila
-<p>
-
-Jika dilihat dari nilai-nilai Pancasila, kasus CrowdStrike Global Outage paling berkaitan dengan sila kedua dan sila kelima. Kedua sila tersebut menunjukkan bahwa dalam mengembangkan teknologi, perusahaan tidak cukup hanya membuat sistem yang canggih, tetapi juga harus memikirkan dampaknya bagi orang lain. Setiap keputusan yang diambil, termasuk saat merilis pembaruan sistem, seharusnya dilakukan dengan penuh tanggung jawab agar tidak menimbulkan masalah bagi para penggunanya.
-
-Sila kedua, yaitu Kemanusiaan yang Adil dan Beradab, menekankan pentingnya menghargai dan menjaga kepentingan orang lain. Pada kasus ini, pembaruan yang dirilis ternyata menimbulkan gangguan pada jutaan perangkat Windows sehingga aktivitas di berbagai sektor ikut terhenti. Dari kejadian tersebut dapat dipahami bahwa proses pengujian sebelum pembaruan dirilis merupakan langkah yang sangat penting. Dengan melakukan pengujian secara menyeluruh, risiko terjadinya gangguan yang dapat merugikan banyak pengguna dapat diminimalkan.
-
-Sementara itu, Sila Kelima, Keadilan Sosial bagi Seluruh Rakyat Indonesia, mengingatkan bahwa setiap pengguna berhak memperoleh layanan yang aman dan dapat diandalkan. Setelah gangguan terjadi, perusahaan tidak cukup hanya mengakui kesalahan, tetapi juga perlu bergerak cepat untuk memperbaiki sistem, memberikan informasi yang jelas kepada pengguna, dan membantu proses pemulihan hingga layanan dapat kembali berjalan dengan baik. Sikap tersebut menunjukkan bentuk tanggung jawab sekaligus upaya menjaga kepercayaan para pengguna.
-
-</p>
-
-### 2.7 Tinjauan Hukum
+### 2.7 Analsisi Regulasi dan Hukum
 
 #### 2.7.1 UU ITE
 <p>
-Berdasarkan UU ITE, perusahaan yang mengelola sistem elektronik wajib menjaga sistem supaya tetap stabil, aman, dan bisa dipakai oleh pengguna. Hal ini sesuai dengan Pasal 15 ayat (1) UU ITE, yang menjelaskan bahwa penyelenggara sistem elektronik harus menjalankan sistem secara andal, aman, dan bertanggung jawab. Jika saat update justru terjadi gangguan yang merugikan pengguna, maka perusahaan harus bertanggung jawab. Contohnya, update software yang bermasalah membuat jutaan perangkat Windows mengalami Blue Screen of Death (BSOD), penerbangan tertunda, dan layanan bank ikut terganggu. Seharusnya perusahaan melakukan pengujian dulu dan memastikan update aman sebelum disebarkan ke pengguna.
 </p>
 
 #### 2.7.2 UU PDP
 <p>
-Berdasarkan UU PDP, perusahaan yang mengelola sistem juga wajib menjaga data pribadi pengguna. Hal ini sesuai dengan Pasal 35 UU PDP, yang menjelaskan bahwa pengendali data pribadi wajib melindungi dan menjaga keamanan data yang dikelola. Dalam kasus ini memang tidak ada pembobolan data, tapi perusahaan tetap harus memastikan gangguan sistem tidak berdampak ke data pengguna. Contohnya, kalau sistem bank error lalu data nasabah tidak bisa diakses atau ada masalah pada informasi pengguna, maka perusahaan bisa dimintai tanggung jawab sesuai aturan yang berlaku.
 </p>
 
-### 2.6 Dampak Kasus
+### 2.8 Checkpoint Integritas & Anti-Korupsi
 <p>
 </p>
 
-## 2.7 Solusi dan Pencegahan
+### 2.9 Manajemen Risiko & Opsi 4T
+<p> 
+</p>
+
+### 2.10 Rancangan Dampak & Kontrol Preventif
+<p>
+</p>
 
 <hr>
 
@@ -143,4 +168,5 @@ Berdasarkan UU PDP, perusahaan yang mengelola sistem juga wajib menjaga data pri
 
 ---
 
-Link Presentasi: https://www.canva.com/design/DAHH-J3TpbA/1DtDQ5taTE28s04o3gWWZA/edit?ui=eyJBIjp7fX0
+Link Presentasi:
+link Youtube:
