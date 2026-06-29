@@ -74,8 +74,20 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 
 ### 2.2 Fakta Kunci & Catatan Transparansi
 <p>
- 
+<p align="justify">
+Pada 19 Juli 2024, CrowdStrike merilis pembaruan (update) untuk sensor Falcon yang digunakan pada sistem operasi Windows. Setelah pembaruan tersebut diterapkan, banyak perangkat mengalami Blue Screen of Death (BSOD) sehingga tidak dapat digunakan, dan kasus ini berdampak pada berbagai sektor, seperti maskapai penerbangan, rumah sakit, perbankan, instansi pemerintah, dan perusahaan swasta di berbagai negara. Berdasarkan penjelasan resmi CrowdStrike, kejadian ini disebabkan oleh kesalahan pada pembaruan yang dirilis dan bukan akibat serangan siber. Microsoft juga ikut membantu proses pemulihan agar perangkat yang terdampak dapat kembali beroperasi.
 </p>
+<p align="justify">
+Selain menimbulkan gangguan operasional, kejadian ini juga berdampak pada aspek hukum dan keuangan. Salah satu perusahaan yang terdampak, yaitu Delta Air Lines, berencana mengajukan gugatan terhadap CrowdStrike dengan nilai tuntutan sekitar US$500 juta atau sekitar Rp7,7 triliun. Kasus ini menunjukkan bahwa kesalahan dalam pembaruan perangkat lunak tidak hanya berdampak pada sisi teknis, tetapi juga dapat menimbulkan kerugian finansial yang besar bagi perusahaan maupun pengguna.
+</p>
+<p align="justify">
+Meskipun penyebab utama gangguan telah dijelaskan oleh CrowdStrike, masih terdapat beberapa informasi yang belum dipublikasikan secara rinci. Hingga saat ini belum ada penjelasan resmi mengenai bagaimana proses pengujian (Quality Assurance atau QA) dilakukan sebelum pembaruan dirilis maupun siapa yang memberikan persetujuan akhir terhadap pembaruan tersebut. Belum ada data resmi yang menunjukkan total kerugian seluruh organisasi yang terdampak di berbagai negara.
+</p>
+<p align="justify">
+Laporan ini  berdasarkan informasi yang diperoleh dari CNN Indonesia, BBC News Indonesia, Tempo, serta pernyataan resmi dari CrowdStrike dan Microsoft. Penulis hanya menggunakan informasi yang sudah dipublikasikan secara resmi. Sementara itu, hal-hal yang belum memiliki penjelasan atau bukti yang jelas tidak dimasukkan sebagai fakta, tetapi dianggap sebagai informasi yang masih perlu dikonfirmasi. Dengan demikian, pembahasan dalam laporan ini diharapkan lebih dapat dipercaya dan tidak dibuat berdasarkan perkiraan semata.
+</p>
+</p>
+
 
 ### 2.3 Pemetaan Pemangku Kepentingan (Stakeholder Mapping)
 <p>
