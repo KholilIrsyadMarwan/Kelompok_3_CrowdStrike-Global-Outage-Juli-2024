@@ -3,7 +3,7 @@
 # LAPORAN ETIKA PROFESI  
 # ANALISIS ETIKA DAN DAMPAK KASUS CROWDSTRIKE GLOBAL OUTAGE JULI 2024
 
-Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
+Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (A)
 
  **Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom
  
@@ -43,9 +43,9 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 ### 1.1 Latar Belakang  
 <p>
  
-Perkembangan teknologi saat ini semakin pesat, dimana berbagai sistem modern saling terhubung dan berpengaruh pada sektor industri, ketergantungan pada sistem membuat kesalahan kecil bisa memberikan dampak luas, dimana pada tanggal  19 juli 2024 terjadi kesalahan pada perusahaan CrowdStrike yang ingin melakukan pembaruan / update  perangkat lunak yang bernama Falcon Sensor untuk  program keamanan, yang harusnya melindungi sistem operasi Microsoft Windows, akan tetapi malah menampilkan Blue Screen of Death (BSOD), dan berdampak ke banyak komputer.[1]
+Perkembangan teknologi saat ini semakin pesat, dimana berbagai sistem modern saling terhubung dan berpengaruh pada sektor industri, ketergantungan pada sistem membuat kesalahan kecil bisa memberikan dampak luas, dimana pada tanggal  19 Juli 2024 terjadi kesalahan pada perusahaan CrowdStrike yang ingin melakukan pembaruan / update  perangkat lunak yang bernama Falcon Sensor untuk  program keamanan, yang harusnya melindungi sistem operasi Microsoft Windows, akan tetapi malah menampilkan Blue Screen of Death (BSOD), dan berdampak ke banyak komputer.[1]
 
-Microsoft selaku tim pengembangan, berpendapat bahwa gangguan ini berdampak ke 8,5 juta  pengguna windows, meskipun berdampak kurang dari 1% ke pengguna diseluruh dunia, tapi dampaknya bisa ke berbagai  sektor industri, karna perangkat yang di gunakan itu sanagat penting, seperti bandara, perbankan, rumah sakit, saham dan perusahaan besar lainnya.[2]
+Microsoft selaku tim pengembangan, berpendapat bahwa gangguan ini berdampak ke 8,5 juta  pengguna windows, meskipun berdampak kurang dari 1% ke pengguna diseluruh dunia, tapi dampaknya bisa ke berbagai  sektor industri,seperti bandara, perbankan, rumah sakit, saham dan perusahaan besar lainnya.[2]
 
 Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang ada didalam pengujian perangkat lunak, yang masih tidak tervalidasi, tetapi lolos dari proses pengujian dan sudah terlanjur disebarkan ke jutaan komputer, seharusnya perlu di lakukan proses testing dan quality control, terutama pada software yang memiliki akses lebih ke sistem operasi.[2]
 
@@ -78,12 +78,12 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 
 ### 2.2 Analisis Berdasarkan Etika
 <p>
- Dalam Etika, CrowdStrike memiliki tanggung jawab yang sangat besar untuk setiap pembaruan perangkat lunak yang aman dan pengujian ketat. Tetapi dengan gangguan ini, adanya cacat pada pembaruan Falcon Sensor yang belum dijalankan secara maksimal, dikarenakan dampak tersebut sangat luas sampai mengganggu penerbangan dan perbankan. Setiap teknologi harus tahap pengujian menyeluruh sebelum rilis ke global, dengan gangguan ini kemungkinan adanya kurang pengujian pada berbagai lingkungan sistem, termasuk Microsoft Windows, maka yang seharusnya pembaruan adalah meningkatkan keamanan malah menimbulkan kerusakan sistem yang serius. Setelah insiden gangguan tersebut, perusahaan menjelaskan adanya gangguan merupakan bentuk penerapan transparansi, namun tetap diimbangi dengan komunikasi dan solusi untuk meminimalkan dampaknya.
+ Berdasarkan etika, CrowdStrike punya tanggung jawab besar untuk memastikan setiap update itu aman dan sudah diuji dengan baik. Tapi di kasus ini, update Falcon Sensor justru bermasalah dan berdampak luas sampai ke penerbangan dan perbankan. Ini kemungkinan karena kurangnya pengujian di berbagai sistem, termasuk Windows. Walaupun pihak perusahaan sudah terbuka soal masalah ini, tetap perlu komunikasi yang jelas dan penanganan cepat supaya dampaknya tidak semakin besar. Sebagai perusahaan di bidang keamanan siber, Kepercayaan para pelanggan harus tetap terjaga dengan meningkatkan kualitas pengujian, pengawasan, dan proses distribusi pembaruan sebelum dirilis secara global. Maka, perusahaan tidak hanya memenuhi tanggung jawab secara teknis, tapi juga menjalankan tanggung jawab etika sebagai penyedia layanan yang digunakan oleh jutaan pengguna di seluruh dunia.
 </p>
 
 ### 2.3 Analisis Berdasarkan Moral
 <p>
- Secara moral, gangguan CrowdStrike menyebabkan kerugian yang sangat besar bagi semua masyarakat dikarenakan terganggunya layanan perbankan, lumpuhnya layanan publik, dan pembatalan penerbangan massal. CrowdStrike tidak memiliki niat untuk merugikan pengguna karena tujuan mereka adalah pembaruan untuk meningkatkan keamanan, tapi CrowdStrike tetap harus tanggung jawab atas kerugian tersebut. Pengguna yang terdampak gangguan mengalami kerugian waktu, biaya, serta bisnis, maka perusahaan seharusnya memberikan kompensasi dan dukungan teknis. Gangguan ini menunjukkan turunnya tingkat kepercayaan publik, karena sistem yang harusnya melindungi telah menjadi kerusakan yang fatal. Untuk memulihkan kepercayaan publik, perusahaan harus memperbaiki sistem dengan cepat dan memulihkan pengguna yang terdampak.
+ Secara moral, gangguan CrowdStrike bikin banyak masyarakat dirugikan karena layanan bank terganggu, dan banyak penerbangan dibatalkan. Walaupun CrowdStrike tidak sengaja merugikan pengguna karena tujuan update itu sebenarnya untuk meningkatkan keamanan, perusahaan tetap harus bertanggung jawab atas dampak yang terjadi. Pengguna yang terkena gangguan tentu rugi waktu, biaya, bahkan bisnis, jadi perusahaan seharusnya memberi kompensasi dan bantuan teknis. Kejadian ini juga bikin kepercayaan masyarakat menurun, karena sistem yang seharusnya melindungi justru menimbulkan masalah besar. Karena itu, perusahaan harus cepat memperbaiki sistem dan membantu pengguna yang terdampak. Perusahaan tidak cukup untuk permohonan maaf, tapi juga komitmen dengan memperbaiki kualitas pengujian sebelum pembaruan dirilis, meningkatkan pengawasan terhadap setiap proses pembaruan, serta mengevaluasi prosedur kerja agar kejadian serupa tidak terulang di masa depan. Karena langkah tersebut, perusahaan mulai membangun kembali kepercayaan pengguna serta menunjukkan bahwa mereka benar-benar bertanggung jawab atas layanan yang diberikan.
 </p>
 
 ### 2.4 Analisis Berdasarkan Etika Profesi
@@ -103,7 +103,7 @@ Dari sisi kepercayaan publik, kejadian ini membuat banyak orang menjadi ragu ter
 
 #### 2.5.1 UU ITE
 <p>
-Berdasarkan UU ITE, perusahaan yang mengelola sistem elektronik wajib menjaga sistem supaya tetap stabil, aman, dan bisa dipakai oleh pengguna. Hal ini sesuai dengan Pasal 15 ayat (1) UU ITE, yang menjelaskan bahwa penyelenggara sistem elektronik harus menjalankan sistem secara andal, aman, dan bertanggung jawab. Jika saat update justru terjadi gangguan yang merugikan pengguna, maka perusahaan harus bertanggung jawab. Contohnya, update software yang bermasalah membuat jutaan perangkat Windows mengalami Blue Screen of Death (BSOD), penerbangan tertunda, dan layanan bank ikut terganggu. Seharusnya perusahaan melakukan pengujian dulu dan memastikan update aman sebelum disebarkan ke pengguna.
+Berdasarkan UU ITE, Perusahaan yang mengelola sistem elektronik wajib menjaga sistem supaya tetap stabil, aman, dan bisa dipakai oleh pengguna. Hal ini sesuai dengan Pasal 15 ayat (1) UU ITE, yang menjelaskan bahwa penyelenggara sistem elektronik harus menjalankan sistem secara andal, aman, dan bertanggung jawab. Jika saat update justru terjadi gangguan yang merugikan pengguna, maka perusahaan harus bertanggung jawab. Contohnya, update software yang bermasalah membuat jutaan perangkat Windows mengalami Blue Screen of Death (BSOD), penerbangan tertunda, dan layanan bank ikut terganggu. Seharusnya perusahaan melakukan pengujian dulu dan memastikan update aman sebelum disebarkan ke pengguna.
 </p>
 
 #### 2.5.2 UU PDP
@@ -114,7 +114,7 @@ Berdasarkan UU PDP, perusahaan yang mengelola sistem juga wajib menjaga data pri
 ### 2.6 Dampak Kasus
 Kasus CrowdStrike Global Outage Juli 2024 memberi dampak yang cukup besar ke banyak sektor. Jutaan perangkat Windows mengalami Blue Screen of Death (BSOD) sehingga komputer tidak bisa dipakai seperti biasa. Akibatnya, banyak aktivitas kerja dan layanan ikut terganggu.
 
-Di bidang transportasi, beberapa bandara mengalami keterlambatan penerbangan karena sistem check-in dan operasional bermasalah. Di sektor perbankan, layanan seperti ATM, mobile banking, dan transaksi online sempat terganggu. Rumah sakit juga ikut terkena dampaknya karena beberapa sistem pelayanan pasien dan administrasi tidak berjalan normal.
+Di bidang Transportasi, beberapa bandara mengalami keterlambatan penerbangan karena sistem check-in dan operasional bermasalah. Di sektor perbankan, layanan seperti ATM, mobile banking, dan transaksi online sempat terganggu. Rumah sakit juga ikut terkena dampaknya karena beberapa sistem pelayanan pasien dan administrasi tidak berjalan normal.
 
 Selain itu, banyak perusahaan mengalami kerugian karena pekerjaan tertunda, pelayanan melambat, dan produktivitas menurun. Kasus ini menunjukkan bahwa kesalahan kecil pada sistem teknologi bisa berdampak besar kalau digunakan di banyak tempat.
 
@@ -161,3 +161,6 @@ Berdasarkan kasus yang terjadi, ada beberapa saran yang bisa diberikan:
 ---
 
 Link Presentasi: https://www.canva.com/design/DAHH-J3TpbA/1DtDQ5taTE28s04o3gWWZA/edit?ui=eyJBIjp7fX0
+
+### LINK PRESENTASI YOUTUBE 
+[![TUGAS PRESENTASI STUDI KASUS CROWDSTRIKE GLOBAL OUTAGE | KELOMPOK 3 - ETIKA PROFESI - A](https://img.youtube.com/vi/UdNgffX3-Us/hqdefault.jpg)](https://youtu.be/UdNgffX3-Us)
