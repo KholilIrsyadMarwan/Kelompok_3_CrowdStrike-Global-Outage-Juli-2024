@@ -127,6 +127,15 @@ Untuk mencegah terulangnya kasus seperti insiden CrowdStrike Juli 2024, diperluk
 4. Perusahaan harus menjunjung tinggi tanggung jawab dan transparansi kepada publik. Jika terjadi kesalahan, perusahaan wajib memberikan informasi yang jelas, solusi yang cepat, serta melakukan evaluasi agar kejadian serupa tidak terulang.
 <hr>
 
+## 2.8 Kode Etik Profesi
+<p>
+</p>
+
+## 2.9 Checkpoint Integritas & Anti-Korupsi
+<p>
+  Pada kasus CrowdStrike, tidak terdapat indikasi adanya praktik korupsi, penyalahgunaan wewenang, maupun konflik kepentingan. Gangguan yang terjadi disebabkan oleh kesalahan teknis pada pembaruan Falcon Sensor, bukan karena tindakan yang dilakukan untuk mencari keuntungan pribadi atau melanggar hukum. Tapi, dari sisi integritas, perusahaan tetap bertanggung jawab untuk jujur dan terbuka kepada pelanggan. Setelah gangguan terjadi, CrowdStrike mengakui bahwa penyebab utama masalah berasal dari pembaruan yang mereka rilis dan segera memberikan penjelasan kepada publik. Langkah ini menunjukkan upaya untuk menjaga transparansi dan tidak menyembunyikan penyebab insiden. Meski demikian, kejadian ini jadi pengingat bahwa perusahaan teknologi siber harus memiliki sistem pengawasan dan proses pengujian yang lebih ketat. Risiko kesalahan yang merugikan banyak pengguna dapat diminimalkan. Menjaga integritas tidak hanya mengakui kesalahan, tapi juga komitmen untuk memperbaiki sistem, mengevaluasi proses kerja, dan mencegah kejadian serupa terulang di masa mendatang.
+</p>
+
 <div align="center">
 <h2>BAB III</h2>
 <h3>PENUTUP</h3>
