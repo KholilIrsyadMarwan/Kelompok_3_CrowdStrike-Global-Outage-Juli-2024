@@ -62,52 +62,50 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 </div>
 
 ### 2.1 Kronologi Kasus
-<p>
 
+### 2.2 Fakta Kunci & Catatan Transparansi
+<p>
+ 
 </p>
 
-### 2.2 Analisis Berdasarkan Etika
+### 2.3 Pemetaan Pemangku Kepentingan (Stakeholder Mapping)
+
+
+### 2.4 Analisis Kasus Menggunakan Empat Teori Etika
+
+
+### 2.5 Lensa Kelima 
 <p>
-  Berdasarkan etika, CrowdStrike punya tanggung jawab besar untuk memastikan setiap update itu aman dan sudah diuji dengan baik. Tapi di kasus ini, update Falcon Sensor justru bermasalah dan berdampak luas sampai ke penerbangan dan perbankan. Ini kemungkinan karena kurangnya pengujian di berbagai sistem, termasuk Windows. Walaupun pihak perusahaan sudah terbuka soal masalah ini, tetap perlu komunikasi yang jelas dan penanganan cepat supaya dampaknya tidak semakin besar. Sebagai perusahaan yang bergerak di bidang keamanan siber, CrowdStrike juga harus menjaga kepercayaan para pelanggannya dengan meningkatkan kualitas pengujian, pengawasan, dan proses distribusi pembaruan sebelum dirilis secara global. Dengan demikian, perusahaan tidak hanya memenuhi tanggung jawab teknis, tetapi juga menjalankan tanggung jawab etika sebagai penyedia layanan yang digunakan oleh jutaan pengguna di seluruh dunia.
+ 
 </p>
 
-### 2.3 Analisis Berdasarkan Moral
+### 2.6 Kode Etika Profesi
 <p>
-  Secara moral, gangguan CrowdStrike bikin banyak masyarakat dirugikan karena layanan bank terganggu, dan banyak penerbangan dibatalkan. Walaupun CrowdStrike tidak sengaja merugikan pengguna karena tujuan update itu sebenarnya untuk meningkatkan keamanan, perusahaan tetap harus bertanggung jawab atas dampak yang terjadi. Pengguna yang terkena gangguan tentu rugi waktu, biaya, bahkan bisnis, jadi perusahaan seharusnya memberi kompensasi dan bantuan teknis. Kejadian ini juga bikin kepercayaan masyarakat menurun, karena sistem yang seharusnya melindungi justru menimbulkan masalah besar. Karena itu, perusahaan harus cepat memperbaiki sistem dan membantu pengguna yang terdampak. 
+ 
 </p>
 
-### 2.4 Analisis Berdasarkan Etika Profesi
+### 2.7 Analsisi Regulasi dan Hukum
 
-### 2.5 Tinjauan Hukum
-
-#### 2.5.1 UU ITE
-<p>
-</p>
-
-#### 2.5.2 UU PDP
-<p>
-</p>
-
-### 2.6 Dampak Kasus
+#### 2.7.1 UU ITE
 <p>
 </p>
 
-## 2.7 Solusi dan Pencegahan
+#### 2.7.2 UU PDP
 <p>
 </p>
 
-## 2.8 Kode Etik Profesi
+### 2.8 Checkpoint Integritas & Anti-Korupsi
 <p>
- Kode etik untuk menghindari kerugian bahwa seorang profesional di bidang teknologi harus berusaha menghindari tindakan yang dapat merugikan orang lain. Pada kasus CrowdStrike, pembaruan Falcon Sensor justru menyebabkan jutaan komputer Windows mengalami gangguan (BSOD). Akibatnya, banyak layanan penting seperti penerbangan, perbankan, rumah sakit, dan perusahaan terganggu. Walaupun kesalahan tersebut tidak disengaja, dampaknya tetap merugikan banyak pihak sehingga prinsip ini menjadi sangat relevan.
- Kode etik untuk menjaga kualitas proses dan produk mengharuskan setiap profesional untuk menghasilkan produk yang berkualitas melalui proses pengujian yang baik. Dalam kasus CrowdStrike, pembaruan yang dirilis ternyata mengandung kesalahan teknis sehingga menunjukkan bahwa proses pengujian atau quality assurance masih memiliki kelemahan. Hal ini menjadi pelajaran bahwa setiap pembaruan perangkat lunak harus diuji secara menyeluruh sebelum digunakan oleh pelanggan di seluruh dunia.
- Sebelum pembaruan dirilis, perusahaan harus mengevaluasi kemungkinan risiko yang dapat terjadi. Pada kasus ini, pembaruan yang bermasalah menunjukkan bahwa evaluasi terhadap dampak pembaruan pada berbagai versi Windows belum dilakukan secara maksimal, sehingga kesalahan dapat menyebar ke jutaan perangkat.
- Setelah insiden terjadi, CrowdStrike mengakui penyebab gangguan berasal dari kesalahan pada pembaruan Falcon Sensor dan segera memberikan informasi kepada publik. Tindakan ini menunjukkan bahwa perusahaan berusaha menerapkan prinsip kejujuran dan transparansi, walaupun tetap bertanggung jawab atas kerugian yang mereka timbulkan.
 </p>
 
-## 2.9 Checkpoint Integritas & Anti-Korupsi
-<p>
-  Pada kasus CrowdStrike, tidak terdapat indikasi adanya praktik korupsi, penyalahgunaan wewenang, maupun konflik kepentingan. Gangguan yang terjadi disebabkan oleh kesalahan teknis pada pembaruan Falcon Sensor, bukan karena tindakan yang dilakukan untuk mencari keuntungan pribadi atau melanggar hukum. Tapi, dari sisi integritas, perusahaan tetap bertanggung jawab untuk jujur dan terbuka kepada pelanggan. Setelah gangguan terjadi, CrowdStrike mengakui bahwa penyebab utama masalah berasal dari pembaruan yang mereka rilis dan segera memberikan penjelasan kepada publik. Langkah ini menunjukkan upaya untuk menjaga transparansi dan tidak menyembunyikan penyebab insiden. Meski demikian, kejadian ini jadi pengingat bahwa perusahaan teknologi siber harus memiliki sistem pengawasan dan proses pengujian yang lebih ketat. Risiko kesalahan yang merugikan banyak pengguna dapat diminimalkan. Menjaga integritas tidak hanya mengakui kesalahan, tapi juga komitmen untuk memperbaiki sistem, mengevaluasi proses kerja, dan mencegah kejadian serupa terulang di masa mendatang.
+### 2.9 Manajemen Risiko & Opsi 4T
+<p> 
 </p>
+
+### 2.10 Rancangan Dampak & Kontrol Preventif
+<p>
+</p>
+
 <hr>
 
 <div align="center">
@@ -133,4 +131,5 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
 ---
 
-Link Presentasi: https://www.canva.com/design/DAHH-J3TpbA/1DtDQ5taTE28s04o3gWWZA/edit?ui=eyJBIjp7fX0
+Link Presentasi:
+link Youtube:
