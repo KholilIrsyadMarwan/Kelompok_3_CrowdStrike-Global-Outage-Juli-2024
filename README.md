@@ -152,7 +152,6 @@ Berdasarkan kasus yang terjadi, ada beberapa saran yang bisa diberikan:
 <h2>DAFTAR PUSTAKA</h2>
 </div>
 
-## Daftar Pustaka
 
 [1] Tempo, “Gangguan Perangkat Windows, Ini Cara agar Kasus CrowdStrike Tidak Terulang,” *Tempo*, Jul. 22, 2024. [Online]. Available: <https://www.tempo.co/digital/gangguan-perangkat-windows-ini-cara-agar-kasus-crowdstrike-tidak-terulang-37217>. [Accessed: Apr. 28, 2026].
 
