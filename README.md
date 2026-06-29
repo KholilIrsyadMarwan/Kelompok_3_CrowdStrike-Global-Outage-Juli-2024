@@ -68,7 +68,7 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
 ### 2.2 Analisis Berdasarkan Etika
 <p>
-  Berdasarkan etika, CrowdStrike punya tanggung jawab besar untuk memastikan setiap update itu aman dan sudah diuji dengan baik. Tapi di kasus ini, update Falcon Sensor justru bermasalah dan berdampak luas sampai ke penerbangan dan perbankan. Ini kemungkinan karena kurangnya pengujian di berbagai sistem, termasuk Windows. Walaupun pihak perusahaan sudah terbuka soal masalah ini, tetap perlu komunikasi yang jelas dan penanganan cepat supaya dampaknya tidak semakin besar.
+  Berdasarkan etika, CrowdStrike punya tanggung jawab besar untuk memastikan setiap update itu aman dan sudah diuji dengan baik. Tapi di kasus ini, update Falcon Sensor justru bermasalah dan berdampak luas sampai ke penerbangan dan perbankan. Ini kemungkinan karena kurangnya pengujian di berbagai sistem, termasuk Windows. Walaupun pihak perusahaan sudah terbuka soal masalah ini, tetap perlu komunikasi yang jelas dan penanganan cepat supaya dampaknya tidak semakin besar. Sebagai perusahaan yang bergerak di bidang keamanan siber, CrowdStrike juga harus menjaga kepercayaan para pelanggannya dengan meningkatkan kualitas pengujian, pengawasan, dan proses distribusi pembaruan sebelum dirilis secara global. Dengan demikian, perusahaan tidak hanya memenuhi tanggung jawab teknis, tetapi juga menjalankan tanggung jawab etika sebagai penyedia layanan yang digunakan oleh jutaan pengguna di seluruh dunia.
 </p>
 
 ### 2.3 Analisis Berdasarkan Moral
