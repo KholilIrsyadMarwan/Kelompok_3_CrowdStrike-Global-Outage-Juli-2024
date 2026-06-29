@@ -91,14 +91,14 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 
 ### 2.4 Analisis Berdasarkan Etika Profesi
 
-### 2.5 Tinjauan Hukum
+### 2.7 Tinjauan Hukum
 
-#### 2.5.1 UU ITE
+#### 2.7.1 UU ITE
 <p>
 Berdasarkan UU ITE, perusahaan yang mengelola sistem elektronik wajib menjaga sistem supaya tetap stabil, aman, dan bisa dipakai oleh pengguna. Hal ini sesuai dengan Pasal 15 ayat (1) UU ITE, yang menjelaskan bahwa penyelenggara sistem elektronik harus menjalankan sistem secara andal, aman, dan bertanggung jawab. Jika saat update justru terjadi gangguan yang merugikan pengguna, maka perusahaan harus bertanggung jawab. Contohnya, update software yang bermasalah membuat jutaan perangkat Windows mengalami Blue Screen of Death (BSOD), penerbangan tertunda, dan layanan bank ikut terganggu. Seharusnya perusahaan melakukan pengujian dulu dan memastikan update aman sebelum disebarkan ke pengguna.
 </p>
 
-#### 2.5.2 UU PDP
+#### 2.7.2 UU PDP
 <p>
 Berdasarkan UU PDP, perusahaan yang mengelola sistem juga wajib menjaga data pribadi pengguna. Hal ini sesuai dengan Pasal 35 UU PDP, yang menjelaskan bahwa pengendali data pribadi wajib melindungi dan menjaga keamanan data yang dikelola. Dalam kasus ini memang tidak ada pembobolan data, tapi perusahaan tetap harus memastikan gangguan sistem tidak berdampak ke data pengguna. Contohnya, kalau sistem bank error lalu data nasabah tidak bisa diakses atau ada masalah pada informasi pengguna, maka perusahaan bisa dimintai tanggung jawab sesuai aturan yang berlaku.
 </p>
