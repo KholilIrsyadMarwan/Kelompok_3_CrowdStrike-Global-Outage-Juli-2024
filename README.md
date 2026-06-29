@@ -89,7 +89,16 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
  
 </p>
 
-### 2.4 Analisis Berdasarkan Etika Profesi
+### 5. Lensa Kelima – Pancasila
+<p>
+
+Jika dilihat dari nilai-nilai Pancasila, kasus CrowdStrike Global Outage paling berkaitan dengan sila kedua dan sila kelima. Kedua sila tersebut menunjukkan bahwa dalam mengembangkan teknologi, perusahaan tidak cukup hanya membuat sistem yang canggih, tetapi juga harus memikirkan dampaknya bagi orang lain. Setiap keputusan yang diambil, termasuk saat merilis pembaruan sistem, seharusnya dilakukan dengan penuh tanggung jawab agar tidak menimbulkan masalah bagi para penggunanya.
+
+Sila kedua, yaitu Kemanusiaan yang Adil dan Beradab, menekankan pentingnya menghargai dan menjaga kepentingan orang lain. Pada kasus ini, pembaruan yang dirilis ternyata menimbulkan gangguan pada jutaan perangkat Windows sehingga aktivitas di berbagai sektor ikut terhenti. Dari kejadian tersebut dapat dipahami bahwa proses pengujian sebelum pembaruan dirilis merupakan langkah yang sangat penting. Dengan melakukan pengujian secara menyeluruh, risiko terjadinya gangguan yang dapat merugikan banyak pengguna dapat diminimalkan.
+
+Sementara itu, Sila Kelima, Keadilan Sosial bagi Seluruh Rakyat Indonesia, mengingatkan bahwa setiap pengguna berhak memperoleh layanan yang aman dan dapat diandalkan. Setelah gangguan terjadi, perusahaan tidak cukup hanya mengakui kesalahan, tetapi juga perlu bergerak cepat untuk memperbaiki sistem, memberikan informasi yang jelas kepada pengguna, dan membantu proses pemulihan hingga layanan dapat kembali berjalan dengan baik. Sikap tersebut menunjukkan bentuk tanggung jawab sekaligus upaya menjaga kepercayaan para pengguna.
+
+</p>
 
 ### 2.7 Tinjauan Hukum
 
