@@ -42,6 +42,12 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
 ### 1.1 Latar Belakang  
 <p>
+ 
+Perkembangan teknologi saat ini semakin pesat, dimana berbagai sistem modern saling terhubung dan berpengaruh pada sektor industri, ketergantungan pada sistem membuat kesalahan kecil bisa memberikan dampak luas, dimana pada tanggal  19 Juli 2024 terjadi kesalahan pada perusahaan CrowdStrike yang ingin melakukan pembaruan / update  perangkat lunak yang bernama Falcon Sensor untuk  program keamanan, yang harusnya melindungi sistem operasi Microsoft Windows, akan tetapi malah menampilkan Blue Screen of Death (BSOD), dan berdampak ke banyak komputer.[1]
+
+Microsoft selaku tim pengembangan, berpendapat bahwa gangguan ini berdampak ke 8,5 juta  pengguna windows, meskipun berdampak kurang dari 1% ke pengguna diseluruh dunia, tapi dampaknya bisa ke berbagai  sektor industri,seperti bandara, perbankan, rumah sakit, saham dan perusahaan besar lainnya.[2]
+
+Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang ada didalam pengujian perangkat lunak, yang masih tidak tervalidasi, tetapi lolos dari proses pengujian dan sudah terlanjur disebarkan ke jutaan komputer, seharusnya perlu di lakukan proses testing dan quality control, terutama pada software yang memiliki akses lebih ke sistem operasi.[2]
 
 </p>
 
@@ -294,5 +300,10 @@ Secara keseluruhan, insiden CrowdStrike Global Outage menunjukkan bahwa tanggung
 <div align="center">
 <h2>DAFTAR PUSTAKA</h2>
 </div>
+
+| No | Referensi |
+|----|-----------|
+| [1] | “CrowdStrike: The Global IT Outage of 2024,” ResearchGate. [Online]. Available: https://www.researchgate.net/publication/385002313_Crowdstrike_The_Global_IT_Outage_of_2024. [Accessed: Apr. 28, 2026]. |
+| [2] | BBC News Indonesia, “Gangguan global CrowdStrike dan dampaknya,” 2024. [Online]. Available: https://www.bbc.com/indonesia/articles/cye059570xko. [Accessed: Apr. 28, 2026]. |
 
 ---
