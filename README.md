@@ -329,8 +329,31 @@ Kasus ini menjadi pengingat bahwa setiap pembaruan perangkat lunak harus melalui
 </p>
 
 ### 2.10 Rancangan Dampak & Kontrol Preventif
-<p>
-</p>
+
+#### 2.10.1 Rancangan Dampak
+<p align="justify">
+Insiden CrowdStrike memberikan dampak yang sangat luas terhadap berbagai sektor yang bergantung pada sistem teknologi informasi. Gangguan tersebut menyebabkan operasional maskapai penerbangan, perbankan, layanan kesehatan, media, hingga pemerintahan menjadi terhambat. Selain kerugian finansial yang besar, insiden ini juga menurunkan kepercayaan pelanggan terhadap keandalan perangkat lunak keamanan yang digunakan oleh perusahaan.</p>
+<p align="justify">
+Di sisi lain, kasus ini menjadi pelajaran penting bagi industri teknologi mengenai pentingnya proses pengujian perangkat lunak sebelum pembaruan diterapkan secara global. Perusahaan penyedia layanan keamanan siber dituntut untuk meningkatkan kualitas pengembangan perangkat lunak agar kejadian serupa tidak kembali terjadi.</p>
+
+#### 2.10.2 Kontrol Preventif
+
+1. Menerapkan pengujian berlapis (multi-stage testing) sebelum pembaruan dirilis kepada seluruh pelanggan, termasuk pengujian pada berbagai versi sistem operasi Windows.
+
+2. Menggunakan metode deployment bertahap (phased rollout) sehingga pembaruan hanya diberikan kepada sebagian kecil pengguna terlebih dahulu. Jika ditemukan kesalahan, proses pembaruan dapat dihentikan sebelum berdampak lebih luas.
+
+3. Menyediakan mekanisme rollback otomatis, sehingga sistem dapat kembali ke versi sebelumnya apabila pembaruan menyebabkan kegagalan sistem.
+
+4. Meningkatkan Quality Assurance (QA) dengan melakukan pengujian fungsional, kompatibilitas, keamanan, dan stabilitas secara menyeluruh sebelum pembaruan dipublikasikan.
+
+5. Menyusun prosedur tanggap insiden (Incident Response Plan) yang jelas agar proses identifikasi, penanganan, komunikasi kepada pelanggan, dan pemulihan sistem dapat dilakukan dengan cepat.
+
+6. Melakukan audit keamanan dan manajemen risiko secara berkala berdasarkan standar seperti ISO 31000 dan ISO/IEC 27001 untuk memastikan seluruh proses pengembangan dan distribusi perangkat lunak telah memenuhi standar keamanan.
+
+7. Meningkatkan transparansi kepada pelanggan melalui pemberitahuan dini mengenai risiko pembaruan, dokumentasi perubahan (*release notes*), serta penyampaian informasi secara cepat apabila terjadi gangguan.
+   
+<p align="justify">
+Dengan menerapkan langkah-langkah tersebut, perusahaan dapat meminimalkan risiko kegagalan pembaruan perangkat lunak, menjaga keberlangsungan layanan, meningkatkan kepercayaan pelanggan, serta mengurangi potensi kerugian operasional dan tuntutan hukum di masa mendatang.</p>
 
 <hr>
 
