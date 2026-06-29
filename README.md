@@ -1,13 +1,13 @@
 <div align="center">
  
 # LAPORAN ETIKA PROFESI  
-# ANALISIS ETIKA DAN DAMPAK KASUS CROWDSTRIKE GLOBAL OUTAGE JULI 2024
+# ANALISIS KASUS CROWDSTRIKE GLOBAL OUTAGE JULI 2024
 
-Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (A)
+Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
  **Dosen Pengampu:** Adi Wahyu Pribadi, S.Si., M.Kom
  
-  <img width="200" height="200" alt="image" src="https://github.com/KholilIrsyadMarwan/Kelompok_3_CrowdStrike-Global-Outage-Juli-2024/blob/a2e3d298f5fe415c3581c38a51ff25815620492b/Logo_Universitas_Pancasila33.png" />
+  <img width="200" height="200" alt="image" src="https://github.com/user-attachments/assets/25bd4ab0-d168-4621-a5d0-39ec1bd23151" />
   
  <br><br>
  
@@ -42,28 +42,18 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (A)
 
 ### 1.1 Latar Belakang  
 <p>
- 
-Perkembangan teknologi saat ini semakin pesat, dimana berbagai sistem modern saling terhubung dan berpengaruh pada sektor industri, ketergantungan pada sistem membuat kesalahan kecil bisa memberikan dampak luas, dimana pada tanggal  19 Juli 2024 terjadi kesalahan pada perusahaan CrowdStrike yang ingin melakukan pembaruan / update  perangkat lunak yang bernama Falcon Sensor untuk  program keamanan, yang harusnya melindungi sistem operasi Microsoft Windows, akan tetapi malah menampilkan Blue Screen of Death (BSOD), dan berdampak ke banyak komputer.[1]
-
-Microsoft selaku tim pengembangan, berpendapat bahwa gangguan ini berdampak ke 8,5 juta  pengguna windows, meskipun berdampak kurang dari 1% ke pengguna diseluruh dunia, tapi dampaknya bisa ke berbagai  sektor industri,seperti bandara, perbankan, rumah sakit, saham dan perusahaan besar lainnya.[2]
-
-Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang ada didalam pengujian perangkat lunak, yang masih tidak tervalidasi, tetapi lolos dari proses pengujian dan sudah terlanjur disebarkan ke jutaan komputer, seharusnya perlu di lakukan proses testing dan quality control, terutama pada software yang memiliki akses lebih ke sistem operasi.[2]
 
 </p>
 
 ### 1.2 Rumusan Masalah  
-1.	Bagaimana kronologi terjadinya kasus global outage pada sistem CrowdStrike bulan Juli 2024?
-2. Apa penyebab utama terjadinya gangguan sistem yang mengakibatkan Blue Screen of Death (BSOD) pada perangkat berbasis Windows?
-3. Bagaimana dampak gangguan tersebut terhadap berbagai sektor industri seperti perbankan, transportasi, dan layanan kesehatan?
-4. Bagaimana analisis kasus ini ditinjau dari etika profesi dan tanggung jawab perusahaan di bidang teknologi informasi?
-5. Bagaimana aspek hukum yang berkaitan dengan kasus ini berdasarkan UU ITE dan UU PDP di Indonesia?
+1.	
+2.
+3. 	
 
 ### 1.3 Tujuan  
-1. Mengetahui dan memahami kronologi kasus global outage CrowdStrike Juli 2024.
-2. Mengidentifikasi penyebab terjadinya kesalahan sistem yang berdampak luas.
-3. Menganalisis dampak gangguan terhadap berbagai sektor industri.
-4. Mengkaji kasus berdasarkan etika profesi dan tanggung jawab perusahaan teknologi.
-5. Mengetahui penerapan aspek hukum terkait, khususnya UU ITE dan UU PDP dalam kasus ini.
+1. 
+2. 
+3. 
 <hr>
 
 <div align="center">
@@ -76,55 +66,212 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
  Insiden CrowdStrike 2024 adalah sebuah peristiwa sejumlah pengguna sistem operasi Microsoft Windows di beberapa dunia mengalami Layar Biru Maut yang terjadi sejak 19 Juli 2024. Akibatnya terjadi gangguan pada sistem penerbangan dan sistem perbankan di berbagai negara seperti Amerika Serikat dan Australia hingga ke Indonesia. Maskapai United Airlines, Delta Airlines, dan American Airlines yang semuanya berkantor pusat di Amerika Serikat telah mengeluarkan "penghentian sementara global" pada semua penerbangan mereka.Maskapai Virgin Australia dan Jetstar juga harus menunda atau membatalkan penerbangan, serta Supermarket dan perusahaan media penyiaraan di Australia harus lumpuh. Bandara Changi di Singapura juga terdampak, sehingga para petugas melakukan proses check-in secara manual. Menurut laporan dari sejumlah pengguna Microsoft Windows, gangguan terjadi setelah pengguna OS Windows melakukan update sistem keamanan CrowdStrike ke versi terbaru. CEO CrowdStrike George Kurtz menjelaskan gangguan massal tersebut akibat dari cacat yang ditemukan dalam pembaruan konten tunggal pada pemindai kelemahan Falcon Sensor untuk mesin berbasis Windows.
 </p>
 
-### 2.2 Analisis Berdasarkan Etika
+### 2.2 Fakta Kunci & Catatan Transparansi
 <p>
- Berdasarkan etika, CrowdStrike punya tanggung jawab besar untuk memastikan setiap update itu aman dan sudah diuji dengan baik. Tapi di kasus ini, update Falcon Sensor justru bermasalah dan berdampak luas sampai ke penerbangan dan perbankan. Ini kemungkinan karena kurangnya pengujian di berbagai sistem, termasuk Windows. Walaupun pihak perusahaan sudah terbuka soal masalah ini, tetap perlu komunikasi yang jelas dan penanganan cepat supaya dampaknya tidak semakin besar. Sebagai perusahaan di bidang keamanan siber, Kepercayaan para pelanggan harus tetap terjaga dengan meningkatkan kualitas pengujian, pengawasan, dan proses distribusi pembaruan sebelum dirilis secara global. Maka, perusahaan tidak hanya memenuhi tanggung jawab secara teknis, tapi juga menjalankan tanggung jawab etika sebagai penyedia layanan yang digunakan oleh jutaan pengguna di seluruh dunia.
+ 
 </p>
 
-### 2.3 Analisis Berdasarkan Moral
+### 2.3 Pemetaan Pemangku Kepentingan (Stakeholder Mapping)
 <p>
- Secara moral, gangguan CrowdStrike bikin banyak masyarakat dirugikan karena layanan bank terganggu, dan banyak penerbangan dibatalkan. Walaupun CrowdStrike tidak sengaja merugikan pengguna karena tujuan update itu sebenarnya untuk meningkatkan keamanan, perusahaan tetap harus bertanggung jawab atas dampak yang terjadi. Pengguna yang terkena gangguan tentu rugi waktu, biaya, bahkan bisnis, jadi perusahaan seharusnya memberi kompensasi dan bantuan teknis. Kejadian ini juga bikin kepercayaan masyarakat menurun, karena sistem yang seharusnya melindungi justru menimbulkan masalah besar. Karena itu, perusahaan harus cepat memperbaiki sistem dan membantu pengguna yang terdampak. Perusahaan tidak cukup untuk permohonan maaf, tapi juga komitmen dengan memperbaiki kualitas pengujian sebelum pembaruan dirilis, meningkatkan pengawasan terhadap setiap proses pembaruan, serta mengevaluasi prosedur kerja agar kejadian serupa tidak terulang di masa depan. Karena langkah tersebut, perusahaan mulai membangun kembali kepercayaan pengguna serta menunjukkan bahwa mereka benar-benar bertanggung jawab atas layanan yang diberikan.
+  Kasus CrowdStrike Global Outage yang terjadi pada 19 Juli 2024 melibatkan berbagai pihak yang memiliki peran, kepentingan, serta tingkat pengaruh yang berbeda-beda. Gangguan yang disebabkan oleh pembaruan (update) Falcon Sensor yang bermasalah mengakibatkan sekitar 8,5 juta perangkat Windows mengalami gangguan. Dampaknya tidak hanya dirasakan oleh CrowdStrike sebagai penyedia layanan keamanan siber, tetapi juga Microsoft, organisasi pelanggan, serta masyarakat yang menggunakan layanan dari organisasi tersebut.
 </p>
 
-### 2.4 Analisis Berdasarkan Etika Profesi
-Kasus CrowdStrike pada Juli 2024 menunjukkan bahwa kesalahan kecil dalam sistem teknologi bisa berdampak sangat besar. Jika dilihat dari etika profesi di bidang teknologi informasi, ada beberapa hal penting yang bisa dianalisis dari kejadian ini.
-#### 2.4.1 Tanggung Jawab Profesional
-Dari sisi tanggung jawab profesional, perusahaan seharusnya memastikan bahwa setiap pembaruan sistem sudah benar-benar aman sebelum digunakan oleh banyak orang. Namun, dalam kasus ini, update pada Falcon Sensor justru menyebabkan banyak komputer mengalami Blue Screen of Death (BSOD). Hal ini menandakan bahwa proses pengujian dan pengecekan masih belum maksimal.
-#### 2.4.2 Prinsip Tidak Merugikan
-Dari prinsip tidak merugikan (non-maleficence), seorang profesional IT seharusnya menghindari hal-hal yang bisa merugikan pengguna. Walaupun gangguan ini bukan karena serangan hacker, dampaknya tetap besar, seperti terganggunya penerbangan, perbankan, dan layanan penting lainnya. Artinya, kesalahan teknis tetap bisa dianggap melanggar etika jika merugikan banyak pihak.
-#### 2.4.3 Kehati-hatian
-Dari sisi kehati-hatian (due care), setiap update sistem, apalagi yang berhubungan langsung dengan sistem operasi, harus dilakukan dengan sangat hati-hati. Dalam kasus ini, kemungkinan besar analisis risiko belum dilakukan secara mendalam, dan tidak ada penanganan cepat saat masalah terjadi, sehingga dampaknya semakin luas.
-#### 2.4.4 Akuntabilitas
-Terkait tanggung jawab (akuntabilitas), pihak CrowdStrike sudah mengakui kesalahan yang terjadi. Ini adalah langkah yang baik, tetapi tidak cukup. Perusahaan juga harus memberikan solusi yang cepat dan jelas agar pengguna tidak terus dirugikan.
-#### 2.4.5 Kepercayaan Publik
-Dari sisi kepercayaan publik, kejadian ini membuat banyak orang menjadi ragu terhadap sistem keamanan yang seharusnya melindungi mereka. Karena itu, perusahaan perlu memperbaiki sistem dan meningkatkan transparansi agar kepercayaan pengguna bisa kembali.
+#### 2.3.1 Identifikasi Pemangku Kepentingan
+  | Pemangku Kepentingan | Peran | Dampak yang Diterima |
+|----------------------|-------|----------------------|
+| CrowdStrike | Pengembang dan penyedia Falcon Sensor | Mengalami penurunan reputasi, kerugian finansial, serta kehilangan kepercayaan pelanggan. |
+| Microsoft | Penyedia sistem operasi Windows | Membantu proses identifikasi dan pemulihan sistem meskipun bukan penyebab utama insiden. |
+| Organisasi Pelanggan (Bank, Maskapai, Rumah Sakit, Pemerintah, Perusahaan) | Menggunakan Falcon Sensor pada perangkat Windows | Operasional terganggu sehingga layanan kepada masyarakat terhenti atau melambat. |
+| Tim IT Organisasi | Bertanggung jawab terhadap pemeliharaan sistem | Harus melakukan pemulihan manual pada perangkat yang terdampak. |
+| Pengguna Akhir (Masyarakat) | Menggunakan layanan organisasi | Mengalami keterlambatan penerbangan, gangguan transaksi, pelayanan kesehatan, dan layanan publik lainnya. |
+| Investor | Pemegang saham CrowdStrike | Nilai investasi menurun akibat turunnya harga saham perusahaan. |
+| Pemerintah dan Regulator | Mengawasi keamanan serta keberlangsungan layanan digital | Melakukan evaluasi terhadap tata kelola keamanan dan pembaruan perangkat lunak. |
+#### 2.3.2 Pengambil Keputusan
 
-### 2.5 Tinjauan Hukum
+Pada saat insiden CrowdStrike Global Outage terjadi, terdapat beberapa pihak yang memiliki kewenangan dalam mengambil keputusan untuk mengurangi dampak gangguan serta mempercepat proses pemulihan.
 
-#### 2.5.1 UU ITE
+#### 1. Manajemen CrowdStrike
+- Mengidentifikasi penyebab utama gangguan.
+- Menghentikan distribusi pembaruan (update) yang bermasalah.
+- Menerbitkan panduan pemulihan kepada pelanggan.
+- Menyampaikan informasi resmi mengenai perkembangan insiden.
+
+#### 2. Microsoft
+- Memberikan dukungan teknis terhadap sistem operasi Windows.
+- Berkoordinasi dengan CrowdStrike dalam proses pemulihan.
+- Membantu pelanggan perusahaan yang mengalami gangguan.
+
+#### 3. Manajemen Organisasi Pelanggan
+- Menentukan prioritas layanan yang dipulihkan terlebih dahulu.
+- Mengalokasikan sumber daya untuk proses recovery.
+- Mengambil keputusan operasional agar layanan penting tetap berjalan.
+
+#### 4. Tim IT Organisasi
+- Melaksanakan proses pemulihan perangkat yang terdampak.
+- Memastikan seluruh sistem kembali beroperasi dengan aman.
+- Melakukan verifikasi sebelum sistem digunakan kembali.
+
+#### 2.3.3 Hubungan Antar Pemangku Kepentingan
+
+Hubungan antar pemangku kepentingan pada kasus CrowdStrike Global Outage dapat digambarkan sebagai berikut.
+
+```mermaid
+graph TD
+    A[CrowdStrike]
+    B[Microsoft Windows]
+    C[Organisasi Pelanggan]
+    D[Tim IT]
+    E[Masyarakat / Pengguna Akhir]
+    F[Investor]
+    G[Pemerintah & Regulator]
+
+    A -->|Mengirim Update Falcon Sensor| B
+    B -->|Digunakan oleh| C
+    C -->|Pemulihan Sistem| D
+    C -->|Memberikan Layanan| E
+    A -->|Laporan Kinerja| F
+    G -->|Pengawasan Regulasi| A
+    G -->|Pengawasan Infrastruktur| C
+```
+
+Diagram tersebut menunjukkan bahwa CrowdStrike memiliki pengaruh besar karena mendistribusikan pembaruan Falcon Sensor kepada pelanggan. Organisasi pelanggan menggunakan sistem operasi Windows sebagai platform utama sehingga ketika pembaruan mengalami kesalahan, operasional organisasi ikut terganggu. Tim IT bertugas melakukan pemulihan sistem, sedangkan masyarakat menjadi pihak yang menerima dampak secara langsung akibat terganggunya layanan.
+#### 2.3.4 Analisis Pengaruh dan Kepentingan
+
+Analisis berikut menggunakan konsep **Power-Interest Matrix** untuk menunjukkan tingkat pengaruh dan kepentingan setiap pemangku kepentingan.
+
+| Stakeholder | Pengaruh | Kepentingan | Kategori |
+|--------------|----------|-------------|----------|
+| CrowdStrike | Sangat Tinggi | Sangat Tinggi | Key Player |
+| Microsoft | Tinggi | Tinggi | Key Player |
+| Organisasi Pelanggan | Tinggi | Sangat Tinggi | Key Player |
+| Tim IT Organisasi | Sedang | Tinggi | Keep Involved |
+| Pemerintah & Regulator | Tinggi | Sedang | Keep Satisfied |
+| Investor | Sedang | Sedang | Keep Satisfied |
+| Pengguna Akhir | Rendah | Tinggi | Keep Informed |
+
+### Penjelasan
+
+- **Key Player** merupakan pihak yang memiliki pengaruh dan kepentingan paling tinggi sehingga harus terlibat langsung dalam proses penanganan insiden.
+- **Keep Involved** adalah pihak yang aktif membantu pelaksanaan pemulihan sistem.
+- **Keep Satisfied** adalah pihak yang perlu memperoleh informasi dan jaminan bahwa proses pemulihan berjalan dengan baik.
+- **Keep Informed** merupakan pihak yang terdampak secara langsung sehingga memerlukan informasi yang transparan mengenai perkembangan pemulihan.
+
+#### 2.3.5 Analisis Relasi Kekuasaan
+
+Dalam kasus CrowdStrike Global Outage, CrowdStrike merupakan pihak yang memiliki tingkat kekuasaan (power) paling tinggi karena bertanggung jawab terhadap distribusi pembaruan Falcon Sensor yang menyebabkan gangguan. Microsoft memiliki pengaruh besar sebagai penyedia sistem operasi Windows yang digunakan oleh jutaan perangkat pelanggan.
+
+Organisasi pelanggan memiliki kewenangan dalam menentukan strategi pemulihan internal sesuai prioritas layanan masing-masing. Tim IT bertugas menjalankan keputusan tersebut melalui proses pemulihan perangkat secara bertahap. Sementara itu, masyarakat sebagai pengguna layanan tidak memiliki kewenangan dalam pengambilan keputusan, namun menjadi pihak yang paling merasakan dampak akibat terhentinya layanan digital.
+
+Hubungan antar pemangku kepentingan menunjukkan bahwa komunikasi yang cepat, koordinasi yang efektif, dan transparansi informasi sangat penting untuk meminimalkan dampak gangguan terhadap operasional organisasi maupun masyarakat.
+
+### 2.4 Analisis Kasus Menggunakan Empat Teori Etika
+
+Analisis etika dilakukan untuk menilai tindakan yang diambil oleh CrowdStrike selama terjadinya insiden CrowdStrike Global Outage pada Juli 2024. Empat teori etika yang digunakan adalah Utilitarianisme, Deontologi, Etika Kebajikan (Virtue Ethics), dan Etika Kepedulian (Care Ethics).
+
+---
+
+#### 2.4.1 Analisis Berdasarkan Teori Utilitarianisme
+
+Teori Utilitarianisme menyatakan bahwa suatu tindakan dianggap benar apabila menghasilkan manfaat terbesar bagi sebanyak mungkin orang.
+
+Pada kasus CrowdStrike Global Outage, pembaruan Falcon Sensor sebenarnya bertujuan meningkatkan keamanan sistem pelanggan. Namun, kesalahan dalam proses validasi pembaruan menyebabkan sekitar 8,5 juta perangkat Windows mengalami gangguan sehingga layanan penting seperti rumah sakit, maskapai penerbangan, bank, dan instansi pemerintah tidak dapat beroperasi secara normal.
+
+Setelah mengetahui adanya kesalahan, CrowdStrike segera menghentikan distribusi pembaruan, memberikan panduan pemulihan, dan bekerja sama dengan Microsoft untuk mempercepat proses recovery. Dari sudut pandang utilitarianisme, keputusan tersebut merupakan upaya untuk mengurangi dampak negatif yang dialami pelanggan meskipun kerugian yang telah terjadi sangat besar.
+
+**Kesimpulan:**
+Tindakan awal CrowdStrike belum memenuhi prinsip utilitarianisme karena menimbulkan kerugian bagi banyak pihak. Namun, langkah pemulihan yang cepat menunjukkan usaha perusahaan untuk memaksimalkan manfaat bagi pelanggan setelah insiden terjadi.
+
+---
+
+#### 2.4.2 Analisis Berdasarkan Teori Deontologi
+
+Teori Deontologi menekankan bahwa setiap organisasi memiliki kewajiban moral untuk menjalankan tugasnya sesuai aturan dan tanggung jawab tanpa melihat hasil akhirnya.
+
+Sebagai perusahaan keamanan siber, CrowdStrike memiliki kewajiban untuk memastikan setiap pembaruan perangkat lunak telah melalui proses pengujian yang memadai sebelum didistribusikan kepada pelanggan. Kesalahan validasi yang menyebabkan gangguan menunjukkan bahwa kewajiban tersebut belum dilaksanakan secara optimal.
+
+Meskipun demikian, CrowdStrike tetap memenuhi tanggung jawab etis setelah insiden terjadi dengan memberikan penjelasan resmi, menyediakan solusi pemulihan, serta berkoordinasi dengan Microsoft dan pelanggan.
+
+**Kesimpulan:**
+Berdasarkan teori deontologi, CrowdStrike belum sepenuhnya memenuhi kewajiban profesional pada tahap distribusi pembaruan, tetapi telah menunjukkan tanggung jawab dalam proses penanganan insiden.
+
+---
+
+#### 2.4.3 Analisis Berdasarkan Teori Etika Kebajikan (Virtue Ethics)
+
+Etika Kebajikan menilai tindakan berdasarkan karakter moral yang dimiliki seseorang atau organisasi, seperti kejujuran, tanggung jawab, keberanian, dan integritas.
+
+Dalam kasus ini, CrowdStrike tidak menutupi penyebab gangguan dan secara terbuka mengakui bahwa insiden disebabkan oleh kesalahan pada pembaruan Falcon Sensor, bukan akibat serangan siber. Perusahaan juga terus memberikan pembaruan informasi kepada pelanggan selama proses pemulihan.
+
+Sikap terbuka tersebut mencerminkan nilai kejujuran dan tanggung jawab, meskipun perusahaan tetap harus meningkatkan kualitas pengujian agar kesalahan serupa tidak terulang.
+
+**Kesimpulan:**
+Dari perspektif Etika Kebajikan, CrowdStrike menunjukkan karakter yang baik dalam hal transparansi dan tanggung jawab setelah insiden, tetapi perlu meningkatkan kehati-hatian sebelum mendistribusikan pembaruan.
+
+---
+
+#### 2.4.4 Analisis Berdasarkan Teori Etika Kepedulian (Care Ethics)
+
+Etika Kepedulian menekankan pentingnya hubungan, empati, dan perhatian terhadap pihak-pihak yang terdampak oleh suatu keputusan.
+
+CrowdStrike memberikan panduan pemulihan kepada pelanggan, bekerja sama dengan Microsoft, serta menyediakan dukungan teknis selama proses recovery. Langkah tersebut menunjukkan adanya kepedulian terhadap organisasi yang mengalami gangguan.
+
+Namun, karena gangguan telah menyebabkan berhentinya berbagai layanan publik, perusahaan juga perlu memastikan adanya mekanisme pencegahan yang lebih baik agar kepentingan pelanggan tetap terlindungi di masa mendatang.
+
+**Kesimpulan:**
+Berdasarkan Etika Kepedulian, CrowdStrike telah menunjukkan perhatian terhadap pelanggan melalui proses pemulihan, tetapi aspek pencegahan sebelum pembaruan masih perlu ditingkatkan.
+
+---
+
+#### 2.4.5 Kesimpulan Analisis Empat Teori Etika
+
+Keempat teori etika memberikan sudut pandang yang berbeda terhadap insiden CrowdStrike Global Outage.
+
+| Teori Etika | Hasil Analisis |
+|--------------|----------------|
+| Utilitarianisme | Pembaruan memberikan dampak negatif yang luas, tetapi proses pemulihan bertujuan meminimalkan kerugian. |
+| Deontologi | CrowdStrike belum sepenuhnya memenuhi kewajiban dalam pengujian pembaruan, namun bertanggung jawab setelah insiden terjadi. |
+| Etika Kebajikan | Menunjukkan kejujuran, transparansi, dan tanggung jawab selama proses penanganan. |
+| Etika Kepedulian | Memberikan perhatian kepada pelanggan melalui dukungan teknis dan proses pemulihan, namun perlu meningkatkan langkah pencegahan. |
+
+Secara keseluruhan, insiden CrowdStrike Global Outage menunjukkan bahwa tanggung jawab etis tidak hanya berkaitan dengan penanganan setelah insiden, tetapi juga mencakup pencegahan melalui proses pengujian perangkat lunak yang lebih ketat sebelum pembaruan didistribusikan kepada pelanggan.
+
+### 2.5 Lensa Kelima 
 <p>
-Berdasarkan UU ITE, Perusahaan yang mengelola sistem elektronik wajib menjaga sistem supaya tetap stabil, aman, dan bisa dipakai oleh pengguna. Hal ini sesuai dengan Pasal 15 ayat (1) UU ITE, yang menjelaskan bahwa penyelenggara sistem elektronik harus menjalankan sistem secara andal, aman, dan bertanggung jawab. Jika saat update justru terjadi gangguan yang merugikan pengguna, maka perusahaan harus bertanggung jawab. Contohnya, update software yang bermasalah membuat jutaan perangkat Windows mengalami Blue Screen of Death (BSOD), penerbangan tertunda, dan layanan bank ikut terganggu. Seharusnya perusahaan melakukan pengujian dulu dan memastikan update aman sebelum disebarkan ke pengguna.
+ 
 </p>
 
-#### 2.5.2 UU PDP
+### 2.6 Kode Etika Profesi
 <p>
-Berdasarkan UU PDP, perusahaan yang mengelola sistem juga wajib menjaga data pribadi pengguna. Hal ini sesuai dengan Pasal 35 UU PDP, yang menjelaskan bahwa pengendali data pribadi wajib melindungi dan menjaga keamanan data yang dikelola. Dalam kasus ini memang tidak ada pembobolan data, tapi perusahaan tetap harus memastikan gangguan sistem tidak berdampak ke data pengguna. Contohnya, kalau sistem bank error lalu data nasabah tidak bisa diakses atau ada masalah pada informasi pengguna, maka perusahaan bisa dimintai tanggung jawab sesuai aturan yang berlaku.
+ 
 </p>
 
-### 2.6 Dampak Kasus
-Kasus CrowdStrike Global Outage Juli 2024 memberi dampak yang cukup besar ke banyak sektor. Jutaan perangkat Windows mengalami Blue Screen of Death (BSOD) sehingga komputer tidak bisa dipakai seperti biasa. Akibatnya, banyak aktivitas kerja dan layanan ikut terganggu.
+### 2.7 Analsisi Regulasi dan Hukum
 
-Di bidang Transportasi, beberapa bandara mengalami keterlambatan penerbangan karena sistem check-in dan operasional bermasalah. Di sektor perbankan, layanan seperti ATM, mobile banking, dan transaksi online sempat terganggu. Rumah sakit juga ikut terkena dampaknya karena beberapa sistem pelayanan pasien dan administrasi tidak berjalan normal.
+#### 2.7.1 UU ITE
+<p>
+</p>
 
-Selain itu, banyak perusahaan mengalami kerugian karena pekerjaan tertunda, pelayanan melambat, dan produktivitas menurun. Kasus ini menunjukkan bahwa kesalahan kecil pada sistem teknologi bisa berdampak besar kalau digunakan di banyak tempat.
+#### 2.7.2 UU PDP
+<p>
+</p>
 
-### 2.7 Solusi dan Pencegahan
-Untuk mencegah terulangnya kasus seperti insiden CrowdStrike Juli 2024, diperlukan beberapa langkah perbaikan baik dari sisi teknis maupun etika profesi.
+#### 2.7.3 Regulasi Sektorat Terkait
+<p>
+ 
+</p>
 
-1. Perusahaan harus meningkatkan proses pengujian (testing) sebelum merilis pembaruan sistem, terutama untuk perangkat lunak yang memiliki akses langsung ke sistem operasi. Pengujian perlu dilakukan secara menyeluruh agar kesalahan dapat terdeteksi lebih awal.
-2. Diperlukan penerapan quality control yang lebih ketat. Setiap pembaruan harus melalui tahap validasi berlapis sebelum didistribusikan ke pengguna secara luas. Selain itu, perusahaan juga perlu menyediakan mekanisme rollback system untuk mengembalikan sistem ke versi sebelumnya jika terjadi kesalahan.
-3. Perusahaan harus meningkatkan manajemen risiko dengan melakukan analisis dampak sebelum melakukan update global agar potensi gangguan dapat diminimalkan.
-4. Perusahaan harus menjunjung tinggi tanggung jawab dan transparansi kepada publik. Jika terjadi kesalahan, perusahaan wajib memberikan informasi yang jelas, solusi yang cepat, serta melakukan evaluasi agar kejadian serupa tidak terulang.
+### 2.8 Checkpoint Integritas & Anti-Korupsi
+<p>
+</p>
+
+### 2.9 Manajemen Risiko & Opsi 4T
+<p> 
+</p>
+
+### 2.10 Rancangan Dampak & Kontrol Preventif
+<p>
+</p>
+
 <hr>
 
 <div align="center">
@@ -133,18 +280,14 @@ Untuk mencegah terulangnya kasus seperti insiden CrowdStrike Juli 2024, diperluk
 </div>
 
 ### 3.1 Kesimpulan 
-Dari pembahasan yang sudah dilakukan, bisa disimpulkan bahwa kasus CrowdStrike pada Juli 2024 terjadi karena kesalahan dalam pembaruan sistem, bukan karena serangan siber. Walaupun secara persentase tidak terlalu besar, dampaknya terasa luas karena menyerang sistem penting seperti penerbangan, perbankan, dan layanan publik lainnya.
-
-Kasus ini menunjukkan bahwa dalam dunia teknologi, kesalahan kecil bisa berdampak besar jika tidak ditangani dengan baik. Dari sisi etika profesi, perusahaan memiliki tanggung jawab untuk memastikan sistem yang dibuat sudah aman dan layak digunakan sebelum dirilis. Selain itu, penting juga untuk selalu berhati-hati, melakukan pengujian yang matang, dan tidak merugikan pengguna.
+<p>
+ 
+</p>
 
 ### 3.2 Saran  
-Berdasarkan kasus yang terjadi, ada beberapa saran yang bisa diberikan:
-
-1. Perusahaan perlu meningkatkan proses pengujian sistem sebelum merilis pembaruan.
-2. Perlu adanya sistem cadangan seperti rollback untuk mengatasi jika terjadi error.
-3. Perusahaan harus lebih cepat dan transparan dalam memberikan informasi kepada pengguna.
-4. Pengembang harus lebih memperhatikan aspek etika profesi dalam setiap proses kerja.
-5. Pemerintah dapat memperkuat pengawasan terhadap sistem teknologi yang berdampak luas.
+<p>
+ 
+</p>
 
 <hr>
 
@@ -152,19 +295,4 @@ Berdasarkan kasus yang terjadi, ada beberapa saran yang bisa diberikan:
 <h2>DAFTAR PUSTAKA</h2>
 </div>
 
-
-[1] Tempo, “Gangguan Perangkat Windows, Ini Cara agar Kasus CrowdStrike Tidak Terulang,” *Tempo*, Jul. 22, 2024. [Online]. Available: <https://www.tempo.co/digital/gangguan-perangkat-windows-ini-cara-agar-kasus-crowdstrike-tidak-terulang-37217>.
-
-[2] BBC News Indonesia, “Gangguan global CrowdStrike dan dampaknya,” 2024. [Online]. Available: <https://www.bbc.com/indonesia/articles/cye059570xko>.
-
-
 ---
-
-Link Presentasi: https://www.canva.com/design/DAHH-J3TpbA/1DtDQ5taTE28s04o3gWWZA/edit?ui=eyJBIjp7fX0
-
-### LINK PRESENTASI YOUTUBE 
-[![TUGAS PRESENTASI STUDI KASUS CROWDSTRIKE GLOBAL OUTAGE | KELOMPOK 3 - ETIKA PROFESI - A](https://img.youtube.com/vi/UdNgffX3-Us/hqdefault.jpg)](https://youtu.be/UdNgffX3-Us)
-
-
-
-
