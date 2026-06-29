@@ -68,8 +68,14 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 </div>
 
 ### 2.1 Kronologi Kasus
-<p>
- Insiden CrowdStrike 2024 adalah sebuah peristiwa sejumlah pengguna sistem operasi Microsoft Windows di beberapa dunia mengalami Layar Biru Maut yang terjadi sejak 19 Juli 2024. Akibatnya terjadi gangguan pada sistem penerbangan dan sistem perbankan di berbagai negara seperti Amerika Serikat dan Australia hingga ke Indonesia. Maskapai United Airlines, Delta Airlines, dan American Airlines yang semuanya berkantor pusat di Amerika Serikat telah mengeluarkan "penghentian sementara global" pada semua penerbangan mereka.Maskapai Virgin Australia dan Jetstar juga harus menunda atau membatalkan penerbangan, serta Supermarket dan perusahaan media penyiaraan di Australia harus lumpuh. Bandara Changi di Singapura juga terdampak, sehingga para petugas melakukan proses check-in secara manual. Menurut laporan dari sejumlah pengguna Microsoft Windows, gangguan terjadi setelah pengguna OS Windows melakukan update sistem keamanan CrowdStrike ke versi terbaru. CEO CrowdStrike George Kurtz menjelaskan gangguan massal tersebut akibat dari cacat yang ditemukan dalam pembaruan konten tunggal pada pemindai kelemahan Falcon Sensor untuk mesin berbasis Windows.
+<p align="justify">
+Insiden CrowdStrike 2024 merupakan gangguan teknologi informasi berskala global yang terjadi pada 19 Juli 2024. Gangguan bermula setelah CrowdStrike merilis pembaruan (update) konten untuk perangkat lunak keamanan Falcon Sensor yang digunakan pada sistem operasi Microsoft Windows. Pembaruan tersebut mengandung cacat (bug) sehingga menyebabkan banyak perangkat Windows mengalami Blue Screen of Death (BSOD) dan gagal melakukan proses booting. Akibatnya, berbagai layanan penting di seluruh dunia mengalami gangguan operasional [1].
+
+Dampak insiden tersebut dirasakan oleh berbagai sektor, khususnya transportasi udara, perbankan, layanan kesehatan, media, dan pemerintahan. Sejumlah maskapai penerbangan seperti United Airlines, Delta Air Lines, American Airlines, Virgin Australia, dan Jetstar terpaksa menunda atau membatalkan penerbangan. Selain itu, Bandara Changi Singapura melakukan proses check-in secara manual, sementara supermarket dan perusahaan media di Australia juga mengalami gangguan operasional [1].
+
+CEO CrowdStrike, George Kurtz, menjelaskan bahwa penyebab insiden bukan merupakan serangan siber, melainkan cacat pada pembaruan konten Falcon Sensor yang hanya memengaruhi perangkat berbasis Windows. Setelah mengetahui penyebabnya, CrowdStrike menarik pembaruan yang bermasalah dan menyediakan panduan pemulihan bagi pelanggan [1].
+
+Insiden ini kemudian berkembang menjadi persoalan hukum. Delta Air Lines menuduh CrowdStrike melakukan kelalaian besar dalam proses pengujian pembaruan perangkat lunak sehingga menyebabkan kerugian operasional yang sangat besar. Sementara itu, CrowdStrike membantah bahwa seluruh kerugian Delta disebabkan oleh pembaruan tersebut dan menyatakan bahwa sebagian gangguan dipengaruhi oleh sistem internal Delta. CrowdStrike juga menunjuk firma hukum Quinn Emanuel Urquhart & Sullivan untuk menghadapi berbagai gugatan hukum yang diperkirakan akan muncul akibat insiden tersebut [1].
 </p>
 
 ### 2.2 Fakta Kunci & Catatan Transparansi
@@ -355,6 +361,7 @@ Kasus ini menjadi pengingat bahwa setiap pembaruan perangkat lunak harus melalui
 | [2] | BBC News Indonesia, “Gangguan global CrowdStrike dan dampaknya,” 2024. [Online]. Available: https://www.bbc.com/indonesia/articles/cye059570xko. [Accessed: Apr. 28, 2026]. |
 | [3] |  Velasquez, M. G. (2022). *Business Ethics: Concepts and Cases* (9th ed.). Pearson. [Accessed: Jun.29, 2026]. |
 | [4] |  TechCrunch. (2024, July 19). *What we know about CrowdStrike's update fail that's causing global outages and travel chaos*.https://techcrunch.com/2024/07/19/what-we-know-about-crowdstrikes-update-fail-thats-causing-global-outages-and-travel-chaos/ [Accessed: Jun.29, 2026]. |
+| [5] |  CNN Indonesia, "CrowdStrike Terancam Digugat Rp7,7 Triliun Imbas Windows Down Global," CNN Indonesia, Sep. 3, 2024. [Online]. Available: https://www.cnnindonesia.com/teknologi/20240903142617-192-1140500/crowdstrike-terancam-digugat-rp77-triliun-imbas-windows-down-global. [Accessed: Jun. 29, 2026]. |
 
 
 ---
