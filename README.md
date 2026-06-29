@@ -76,10 +76,13 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
  
 </p>
 
-### 2.2 Analisis Berdasarkan Etika
-<p>
- 
-</p>
+### 2.2 Fakta Kunci dan Catatan Transparansi
+
+<p align="justify"> Berdasarkan informasi yang telah dipublikasikan secara resmi, diketahui bahwa pembaruan sensor Falcon yang dirilis pada 19 Juli 2024 menjadi penyebab utama terjadinya gangguan pada jutaan perangkat Windows. Dampak dari pembaruan tersebut menyebabkan banyak komputer mengalami <i>Blue Screen of Death</i> (BSOD), sehingga berbagai layanan penting tidak dapat beroperasi secara normal. CrowdStrike juga telah menyampaikan bahwa insiden ini bukan disebabkan oleh serangan siber, melainkan kesalahan pada pembaruan yang mereka rilis. Selain itu, Microsoft turut membantu proses pemulihan agar perangkat yang terdampak dapat kembali digunakan. </p>
+
+<p align="justify"> Meskipun penyebab utama insiden telah dijelaskan, masih terdapat beberapa informasi yang belum dipublikasikan secara rinci. Hingga saat ini CrowdStrike belum menjelaskan bagaimana proses pengujian (<i>Quality Assurance</i> atau QA) dilakukan sebelum pembaruan dirilis kepada pengguna. Perusahaan juga belum mengungkapkan secara jelas siapa yang bertanggung jawab dalam proses persetujuan akhir sebelum pembaruan tersebut didistribusikan. Di samping itu, besarnya kerugian yang dialami oleh masing-masing organisasi berbeda-beda sehingga tidak ada angka pasti yang dipublikasikan secara menyeluruh. </p>
+
+<p align="justify"> Oleh karena itu, pembahasan dalam laporan ini hanya menggunakan informasi yang berasal dari pernyataan resmi CrowdStrike, Microsoft, serta berbagai media yang memiliki kredibilitas seperti media tempo dan bbc. </p>
 
 ### 2.3 Analisis Berdasarkan Moral
 <p>
