@@ -131,4 +131,5 @@ Disusun guna memenuhi tugas pada mata kuliah Etika Profesi (B)
 
 ---
 
-Link Presentasi: https://www.canva.com/design/DAHH-J3TpbA/1DtDQ5taTE28s04o3gWWZA/edit?ui=eyJBIjp7fX0
+Link Presentasi:
+link Youtube:
