@@ -52,14 +52,14 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 </p>
 
 ### 1.2 Rumusan Masalah  
-1.	
-2.
-3. 	
+1.	Apa penyebab utama terjadinya gangguan sistem akibat pembaruan (update) CrowdStrike Falcon Sensor pada perangkat berbasis Microsoft Windows?
+2. Bagaimana dampak kegagalan pembaruan CrowdStrike terhadap berbagai sektor yang bergantung pada sistem teknologi informasi?
+3. Bagaimana penerapan etika profesi, regulasi, dan manajemen risiko dalam menganalisis serta mencegah terulangnya kasus serupa di masa mendatang?
 
 ### 1.3 Tujuan  
-1. 
-2. 
-3. 
+1. Mengetahui penyebab terjadinya gangguan sistem yang disebabkan oleh pembaruan CrowdStrike Falcon Sensor pada sistem operasi Microsoft Windows.
+2. Menganalisis dampak yang ditimbulkan terhadap pengguna, organisasi, dan sektor industri akibat kegagalan pembaruan tersebut.
+3. Menganalisis kasus berdasarkan teori etika, kode etik profesi, regulasi yang berlaku, serta memberikan rekomendasi pencegahan agar kejadian serupa tidak terulang.
 <hr>
 
 <div align="center">
