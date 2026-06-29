@@ -69,13 +69,13 @@ Penyebab utamanya itu  bukan dari serangan cyber, akan tetapi terdapat bug yang 
 
 ### 2.1 Kronologi Kasus
 <p align="justify">
-Insiden CrowdStrike 2024 merupakan gangguan teknologi informasi berskala global yang terjadi pada 19 Juli 2024. Gangguan bermula setelah CrowdStrike merilis pembaruan (update) konten untuk perangkat lunak keamanan Falcon Sensor yang digunakan pada sistem operasi Microsoft Windows. Pembaruan tersebut mengandung cacat (bug) sehingga menyebabkan banyak perangkat Windows mengalami Blue Screen of Death (BSOD) dan gagal melakukan proses booting. Akibatnya, berbagai layanan penting di seluruh dunia mengalami gangguan operasional [1].
-
-Dampak insiden tersebut dirasakan oleh berbagai sektor, khususnya transportasi udara, perbankan, layanan kesehatan, media, dan pemerintahan. Sejumlah maskapai penerbangan seperti United Airlines, Delta Air Lines, American Airlines, Virgin Australia, dan Jetstar terpaksa menunda atau membatalkan penerbangan. Selain itu, Bandara Changi Singapura melakukan proses check-in secara manual, sementara supermarket dan perusahaan media di Australia juga mengalami gangguan operasional [1].
-
-CEO CrowdStrike, George Kurtz, menjelaskan bahwa penyebab insiden bukan merupakan serangan siber, melainkan cacat pada pembaruan konten Falcon Sensor yang hanya memengaruhi perangkat berbasis Windows. Setelah mengetahui penyebabnya, CrowdStrike menarik pembaruan yang bermasalah dan menyediakan panduan pemulihan bagi pelanggan [1].
-
-Insiden ini kemudian berkembang menjadi persoalan hukum. Delta Air Lines menuduh CrowdStrike melakukan kelalaian besar dalam proses pengujian pembaruan perangkat lunak sehingga menyebabkan kerugian operasional yang sangat besar. Sementara itu, CrowdStrike membantah bahwa seluruh kerugian Delta disebabkan oleh pembaruan tersebut dan menyatakan bahwa sebagian gangguan dipengaruhi oleh sistem internal Delta. CrowdStrike juga menunjuk firma hukum Quinn Emanuel Urquhart & Sullivan untuk menghadapi berbagai gugatan hukum yang diperkirakan akan muncul akibat insiden tersebut [1].
+Insiden CrowdStrike 2024 merupakan gangguan teknologi informasi berskala global yang terjadi pada 19 Juli 2024. Gangguan bermula setelah CrowdStrike merilis pembaruan (update) konten untuk perangkat lunak keamanan Falcon Sensor yang digunakan pada sistem operasi Microsoft Windows. Pembaruan tersebut mengandung cacat (bug) sehingga menyebabkan banyak perangkat Windows mengalami Blue Screen of Death (BSOD) dan gagal melakukan proses booting. Akibatnya, berbagai layanan penting di seluruh dunia mengalami gangguan operasional [5]. </p>
+<p align="justify">
+Dampak insiden tersebut dirasakan oleh berbagai sektor, khususnya transportasi udara, perbankan, layanan kesehatan, media, dan pemerintahan. Sejumlah maskapai penerbangan seperti United Airlines, Delta Air Lines, American Airlines, Virgin Australia, dan Jetstar terpaksa menunda atau membatalkan penerbangan. Selain itu, Bandara Changi Singapura melakukan proses check-in secara manual, sementara supermarket dan perusahaan media di Australia juga mengalami gangguan operasional [5]. </p>
+<p align="justify">
+CEO CrowdStrike, George Kurtz, menjelaskan bahwa penyebab insiden bukan merupakan serangan siber, melainkan cacat pada pembaruan konten Falcon Sensor yang hanya memengaruhi perangkat berbasis Windows. Setelah mengetahui penyebabnya, CrowdStrike menarik pembaruan yang bermasalah dan menyediakan panduan pemulihan bagi pelanggan [5]. </p>
+<p align="justify">
+Insiden ini kemudian berkembang menjadi persoalan hukum. Delta Air Lines menuduh CrowdStrike melakukan kelalaian besar dalam proses pengujian pembaruan perangkat lunak sehingga menyebabkan kerugian operasional yang sangat besar. Sementara itu, CrowdStrike membantah bahwa seluruh kerugian Delta disebabkan oleh pembaruan tersebut dan menyatakan bahwa sebagian gangguan dipengaruhi oleh sistem internal Delta. CrowdStrike juga menunjuk firma hukum Quinn Emanuel Urquhart & Sullivan untuk menghadapi berbagai gugatan hukum yang diperkirakan akan muncul akibat insiden tersebut [5].
 </p>
 
 ### 2.2 Fakta Kunci & Catatan Transparansi
