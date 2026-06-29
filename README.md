@@ -388,3 +388,23 @@ Dengan menerapkan langkah-langkah tersebut, perusahaan dapat meminimalkan risiko
 
 
 ---
+
+<div align="center">
+<h2>LAMPIRAN</h2>
+</div>
+
+| No | Bagian | Penanggung Jawab |
+|:--:|--------|:----------------:|
+| 1 | Kronologi & Konteks | Rizwan Fauziani Ilham |
+| 2 | Fakta Kunci & Catatan Transparansi | Kholil Irsyad Marwan |
+| 3 | Pemetaan Pemangku Kepentingan | Muhammad Tegar Arianto |
+| 4 | Analisis Empat Teori Etika | Muhammad Tegar Arianto |
+| 5 | Lensa Kelima — Pancasila | Kholil Irsyad Marwan |
+| 6 | Kode Etik Profesi | Reevan Azepha Islamy Iskandar |
+| 7 | Analisis Regulasi & Hukum | Reza Putra Arialesta |
+| 8 | Checkpoint Integritas & Anti-Korupsi | Reevan Azepha Islamy Iskandar |
+| 9 | Manajemen Risiko & Opsi 4T | Reza Putra Arialesta |
+| 10 | Rancangan Dampak & Kontrol Preventif | Rizwan Fauziani Ilham  |
+| 11 | Pelajaran Utama & Daftar Pustaka | Rizwan Fauziani Ilham  |
+
+---
