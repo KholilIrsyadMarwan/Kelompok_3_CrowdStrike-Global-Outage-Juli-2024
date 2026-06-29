@@ -305,5 +305,8 @@ Secara keseluruhan, insiden CrowdStrike Global Outage menunjukkan bahwa tanggung
 |----|-----------|
 | [1] | “CrowdStrike: The Global IT Outage of 2024,” ResearchGate. [Online]. Available: https://www.researchgate.net/publication/385002313_Crowdstrike_The_Global_IT_Outage_of_2024. [Accessed: Apr. 28, 2026]. |
 | [2] | BBC News Indonesia, “Gangguan global CrowdStrike dan dampaknya,” 2024. [Online]. Available: https://www.bbc.com/indonesia/articles/cye059570xko. [Accessed: Apr. 28, 2026]. |
+| [3] |  Velasquez, M. G. (2022). *Business Ethics: Concepts and Cases* (9th ed.). Pearson. [Accessed: Jun.29, 2026]. |
+| [4] |  TechCrunch. (2024, July 19). *What we know about CrowdStrike's update fail that's causing global outages and travel chaos*.https://techcrunch.com/2024/07/19/what-we-know-about-crowdstrikes-update-fail-thats-causing-global-outages-and-travel-chaos/ [Accessed: Jun.29, 2026]. |
+
 
 ---
