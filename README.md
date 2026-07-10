@@ -81,7 +81,6 @@ Insiden ini kemudian berkembang menjadi persoalan hukum. Delta Air Lines menuduh
 ### 2.2 Fakta Kunci & Catatan Transparansi
 <p>
 <p align="justify">
-## 2.2 Fakta Kunci & Catatan Transparansi
 
 | No. | Fakta Kunci | Catatan Transparansi |
 |:---:|-------------|----------------------|
