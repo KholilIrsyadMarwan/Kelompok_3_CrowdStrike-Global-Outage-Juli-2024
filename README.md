@@ -460,7 +460,9 @@ Bagi akademisi maupun mahasiswa, kasus CrowdStrike dapat dijadikan pembelajaran 
 | 2.10 | Rancangan Dampak & Kontrol Preventif | Rizwan Fauziani Ilham  |
 | 2.11 | Pelajaran Utama & Daftar Pustaka | Rizwan Fauziani Ilham  |
 
-##  Video Presentasi Youtube
+##  Video Presentasi
 
-[![Video Youtube](https://img.youtube.com/vi/LP4j9GZPWP8/maxresdefault.jpg)](https://youtu.be/LP4j9GZPWP8)
+Link Video Presentasi Youtube:
+
+🔗 https://youtu.be/LP4j9GZPWP8
 ---
