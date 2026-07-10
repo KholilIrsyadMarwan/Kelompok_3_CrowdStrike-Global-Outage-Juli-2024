@@ -81,16 +81,16 @@ Insiden ini kemudian berkembang menjadi persoalan hukum. Delta Air Lines menuduh
 ### 2.2 Fakta Kunci & Catatan Transparansi
 <p>
 <p align="justify">
-
-| No. | Fakta Kunci | Catatan Transparansi |
-|:---:|-------------|----------------------|
-| 1 | Pada 19 Juli 2024, CrowdStrike merilis pembaruan  Falcon Sensor untuk sistem operasi Windows. | Informasi mengenai tanggal dan pembaruan ini berasal dari pernyataan resmi CrowdStrike dan telah diberitakan oleh berbagai media terpercaya. |
-| 2 | Setelah pembaruan dipasang, banyak perangkat Windows mengalami Blue Screen of Death (BSOD) sehingga tidak dapat digunakan. | CrowdStrike menjelaskan bahwa gangguan tersebut terjadi karena kesalahan pada pembaruan yang dirilis, bukan akibat serangan siber. |
-| 3 | Gangguan tersebut berdampak pada berbagai sektor, seperti maskapai penerbangan, rumah sakit, perbankan, instansi pemerintah, dan perusahaan swasta di berbagai negara. | Dampak ini telah dilaporkan oleh berbagai media dan diakui oleh sejumlah organisasi yang terdampak. |
-| 4 | Microsoft turut membantu proses pemulihan agar perangkat yang terdampak dapat kembali beroperasi. | Informasi ini disampaikan secara resmi oleh Microsoft dan CrowdStrike. |
-| 5 | Delta Air Lines berencana mengajukan gugatan terhadap CrowdStrike dengan nilai sekitar US$500 juta atau sekitar Rp7,7 triliun. | Informasi tersebut masih berupa rencana gugatan yang dilaporkan oleh media dan belum merupakan putusan pengadilan. |
-| 6 | Hingga laporan ini disusun, CrowdStrike belum menjelaskan secara rinci bagaimana proses pengujian pembaruan dilakukan maupun siapa yang memberikan persetujuan sebelum pembaruan dirilis. | Karena belum ada penjelasan resmi, informasi tersebut masih memiliki keterbatasan dan memerlukan klarifikasi lebih lanjut dari pihak CrowdStrike. |
-| 7 | Hingga saat ini belum ada data resmi mengenai total kerugian yang dialami seluruh organisasi yang terdampak. | Oleh karena itu, besarnya kerugian secara keseluruhan belum dapat dipastikan berdasarkan informasi yang tersedia. |
+Pada 19 Juli 2024, CrowdStrike merilis pembaruan (update) untuk sensor Falcon yang digunakan pada sistem operasi Windows. Setelah pembaruan tersebut diterapkan, banyak perangkat mengalami Blue Screen of Death (BSOD) sehingga tidak dapat digunakan, dan kasus ini berdampak pada berbagai sektor, seperti maskapai penerbangan, rumah sakit, perbankan, instansi pemerintah, dan perusahaan swasta di berbagai negara. Berdasarkan penjelasan resmi CrowdStrike, kejadian ini disebabkan oleh kesalahan pada pembaruan yang dirilis dan bukan akibat serangan siber. Microsoft juga ikut membantu proses pemulihan agar perangkat yang terdampak dapat kembali beroperasi.
+</p>
+<p align="justify">
+Selain menimbulkan gangguan operasional, kejadian ini juga berdampak pada aspek hukum dan keuangan. Salah satu perusahaan yang terdampak, yaitu Delta Air Lines, berencana mengajukan gugatan terhadap CrowdStrike dengan nilai tuntutan sekitar US$500 juta atau sekitar Rp7,7 triliun. Kasus ini menunjukkan bahwa kesalahan dalam pembaruan perangkat lunak tidak hanya berdampak pada sisi teknis, tetapi juga dapat menimbulkan kerugian finansial yang besar bagi perusahaan maupun pengguna.
+</p>
+<p align="justify">
+Meskipun penyebab utama gangguan telah dijelaskan oleh CrowdStrike, masih terdapat beberapa informasi yang belum dipublikasikan secara rinci. Hingga saat ini belum ada penjelasan resmi mengenai bagaimana proses pengujian (Quality Assurance atau QA) dilakukan sebelum pembaruan dirilis maupun siapa yang memberikan persetujuan akhir terhadap pembaruan tersebut. Belum ada data resmi yang menunjukkan total kerugian seluruh organisasi yang terdampak di berbagai negara.
+</p>
+<p align="justify">
+Laporan ini  berdasarkan informasi yang diperoleh dari CNN Indonesia, BBC News Indonesia, Tempo, serta pernyataan resmi dari CrowdStrike dan Microsoft. Penulis hanya menggunakan informasi yang sudah dipublikasikan secara resmi. Sementara itu, hal-hal yang belum memiliki penjelasan atau bukti yang jelas tidak dimasukkan sebagai fakta, tetapi dianggap sebagai informasi yang masih perlu dikonfirmasi. Dengan demikian, pembahasan dalam laporan ini diharapkan lebih dapat dipercaya dan tidak dibuat berdasarkan perkiraan semata.
 </p>
 </p>
 
@@ -304,19 +304,26 @@ Kasus ini menjadi pengingat bahwa setiap pembaruan perangkat lunak harus melalui
 </p>
 
 ### 2.7 Analsisi Regulasi dan Hukum
+#### 2.7.1 UU ITE (UU No. 11 Tahun 2008 jo. UU No. 19 Tahun 2016 jo. UU No. 1 Tahun 2024)
+<p>Berdasarkan Undang-Undang Informasi dan Transaksi Elektronik (UU ITE), insiden ini dapat ditinjau dari aspek tanggung jawab Penyelenggara Sistem Elektronik (PSE):
+ 1. Pasal 15 Ayat (1): Menyatakan bahwa "Setiap Penyelenggara Sistem Elektronik harus menyelenggarakan Sistem Elektronik secara andal dan aman serta bertanggung jawab terhadap beroperasinya Sistem Elektronik sebagaimana mestinya." Kegagalan validasi pembaruan Falcon Sensor yang melumpuhkan sistem klien merupakan bentuk pelanggaran atas asas keandalan sistem ini.
 
-
-#### 2.7.1 UU ITE
-<p>
+ 2. Pasal 15 Ayat (2): PSE bertanggung jawab atas segala kerugian yang ditimbulkan akibat kelalaian sistem, kecuali jika dapat dibuktikan adanya keadaan memaksa (force majeure), kesalahan pengguna, atau kesalahan pihak ketiga. Karena insiden ini murni kesalahan internal Quality Assurance (QA) CrowdStrike, maka secara hukum PSE memiliki beban tanggung jawab ganti rugi terhadap kerugian operasional yang menimpa mitra di Indonesia.
 </p>
 
 #### 2.7.2 UU PDP
-<p>
+<p>Meskipun insiden CrowdStrike adalah masalah ketersediaan sistem (availability) dan bukan kebocoran data (data breach), hubungannya dengan Perlindungan Data Pribadi tetap ada:
+
+ 1. Pasal 16 Ayat (1) Pengendali Data Pribadi wajib menjamin keamanan data pribadi yang diproses. Ketika sistem keamanan seperti Falcon Sensor mengalami BSOD, perlindungan aktif terhadap basis data menjadi lumpuh atau berpindah ke mode darurat (fail-safe/fail-open).
+
+ 2. Risiko Keamanan Menurun, Kelumpuhan ini menciptakan celah kerentanan baru (vulnerability window) di mana perlindungan data pribadi menjadi tidak maksimal selama berjam-jam proses pemulihan manual dilakukan, yang berpotensi melanggar kewajiban menjaga kerahasiaan dan integritas data jika dimanfaatkan oleh aktor ancaman lain.
 </p>
 
 #### 2.7.3 Regulasi Sektorat Terkait
-<p>
- 
+<p> 
+ 1. Sektor Perbankan/Keuangan (Regulasi OJK): POJK Nomor 11/POJK.03/2022 tentang Penyelenggaraan Teknologi Informasi oleh Bank Umum. Regulasi ini mewajibkan bank memiliki prinsip ketahanan siber (cyber resilience) dan manajemen risiko pihak ketiga (third-party risk management). Kegagalan sistem akibat CrowdStrike memaksa perbankan mengaktifkan Business Continuity Plan (BCP).
+
+ 2. Sektor Penerbangan (Peraturan Menteri Perhubungan): PM No. 89 Tahun 2015 mengenai penanganan keterlambatan penerbangan (delay management). Maskapai penerbangan di Indonesia yang terdampak (sistem check-in manual atau gangguan manifes) tetap terikat hukum untuk memberikan kompensasi kepada penumpang atas keterlambatan, meskipun akar masalahnya berada pada vendor software luar negeri.
 </p>
 
 ### 2.8 Checkpoint Integritas & Anti-Korupsi
@@ -325,8 +332,36 @@ Kasus ini menjadi pengingat bahwa setiap pembaruan perangkat lunak harus melalui
 </p>
 
 ### 2.9 Manajemen Risiko & Opsi 4T
-<p> 
-</p>
+
+
+
+Dalam teori manajemen risiko, respon terhadap risiko yang teridentifikasi akibat malfungsi pembaruan otomatis dari vendor pihak ketiga (*third-party automated update*) dapat dipetakan menggunakan kerangka kerja **4T (*Tolerate, Treat, Transfer, Terminate*)**.
+
+
+
+```mermaid
+
+graph TD
+
+    Risk[Risiko Malfungsi Update Vendor] --> Tolerate[1. Tolerate / Terima Risiko]
+
+    Risk --> Treat[2. Treat / Mitigasi Risiko]
+
+    Risk --> Transfer[3. Transfer / Alihkan Risiko]
+
+    Risk --> Terminate[4. Terminate / Hindari Risiko]
+
+
+
+    Tolerate --> Tolerate_Detail[Menerima risiko harian minor demi update real-time threat intel]
+
+    Treat --> Treat_Detail[Phased rollout, testing di sandbox, batasi akses langsung ke kernel]
+
+    Transfer --> Transfer_Detail[Asuransi siber & klausul ganti rugi finansial dalam SLA]
+
+    Terminate --> Terminate_Detail[Migrasi vendor atau isolasi sistem kritikal secara air-gapped]
+```
+
 
 ### 2.10 Rancangan Dampak & Kontrol Preventif
 
@@ -362,14 +397,32 @@ Dengan menerapkan langkah-langkah tersebut, perusahaan dapat meminimalkan risiko
 <h3>PENUTUP</h3>
 </div>
 
-### 3.1 Kesimpulan 
-<p>
- 
+### 3.1 Kesimpulan
+
+<p align="justify">
+Kasus <b>CrowdStrike Global Outage</b> pada 19 Juli 2024 menunjukkan bahwa kesalahan dalam proses pembaruan perangkat lunak dapat menimbulkan dampak yang sangat luas terhadap berbagai sektor yang bergantung pada teknologi informasi. Meskipun penyebab insiden bukan berasal dari serangan siber, melainkan dari bug pada pembaruan Falcon Sensor, gangguan tersebut menyebabkan jutaan perangkat Windows mengalami <i>Blue Screen of Death (BSOD)</i> sehingga layanan penting seperti penerbangan, perbankan, rumah sakit, pemerintahan, dan perusahaan swasta mengalami gangguan operasional.
 </p>
 
-### 3.2 Saran  
-<p>
- 
+<p align="justify">
+Berdasarkan analisis etika profesi, insiden ini menunjukkan bahwa perusahaan penyedia layanan keamanan siber memiliki tanggung jawab moral dan profesional untuk memastikan setiap pembaruan telah melalui proses pengujian yang memadai sebelum didistribusikan kepada pelanggan. Dari sudut pandang utilitarianisme, deontologi, etika kebajikan, dan etika kepedulian, CrowdStrike telah menunjukkan tanggung jawab melalui transparansi, penghentian distribusi pembaruan, serta penyediaan panduan pemulihan. Namun, proses pencegahan sebelum pembaruan dirilis masih perlu ditingkatkan agar kerugian serupa tidak kembali terjadi.
+</p>
+
+<p align="justify">
+Selain itu, kasus ini menegaskan pentingnya penerapan kode etik profesi, regulasi yang berlaku, manajemen risiko, serta kolaborasi antara vendor perangkat lunak, penyedia sistem operasi, organisasi pelanggan, regulator, dan tim teknologi informasi. Dengan menerapkan proses <i>Quality Assurance</i> yang lebih ketat, pengujian bertahap, mekanisme <i>rollback</i>, serta komunikasi yang transparan kepada pelanggan, risiko gangguan sistem berskala global dapat diminimalkan sehingga kepercayaan masyarakat terhadap layanan digital tetap terjaga.
+</p>
+
+### 3.2 Saran
+
+<p align="justify">
+Berdasarkan hasil analisis yang telah dilakukan, perusahaan penyedia perangkat lunak keamanan disarankan untuk memperkuat proses <i>Quality Assurance (QA)</i> dengan menerapkan pengujian yang lebih menyeluruh pada berbagai konfigurasi sistem sebelum pembaruan dirilis secara global. Selain itu, penerapan metode <i>phased rollout</i> atau distribusi bertahap serta mekanisme <i>rollback</i> otomatis perlu menjadi standar agar kesalahan dapat dideteksi lebih awal dan tidak berdampak pada seluruh pelanggan.
+</p>
+
+<p align="justify">
+Organisasi pengguna juga perlu meningkatkan manajemen risiko teknologi informasi melalui penyusunan <i>Business Continuity Plan (BCP)</i>, prosedur tanggap insiden, serta evaluasi terhadap risiko penggunaan layanan pihak ketiga (<i>third-party risk management</i>). Langkah tersebut akan membantu organisasi mempertahankan keberlangsungan layanan ketika terjadi gangguan pada sistem yang digunakan.
+</p>
+
+<p align="justify">
+Bagi akademisi maupun mahasiswa, kasus CrowdStrike dapat dijadikan pembelajaran mengenai pentingnya penerapan etika profesi, tata kelola teknologi informasi, serta kepatuhan terhadap regulasi dalam pengembangan perangkat lunak. Kemampuan teknis harus selalu diimbangi dengan tanggung jawab profesional, integritas, transparansi, dan kepedulian terhadap dampak yang dapat ditimbulkan kepada masyarakat agar teknologi yang dikembangkan benar-benar memberikan manfaat secara aman dan berkelanjutan.
 </p>
 
 <hr>
