@@ -81,11 +81,10 @@ Insiden ini kemudian berkembang menjadi persoalan hukum. Delta Air Lines menuduh
 ### 2.2 Fakta Kunci & Catatan Transparansi
 <p>
 <p align="justify">
-## 2.2 Fakta Kunci & Catatan Transparansi
 
 | No. | Fakta Kunci | Catatan Transparansi |
 |:---:|-------------|----------------------|
-| 1 | Pada 19 Juli 2024, CrowdStrike merilis pembaruan (update) Falcon Sensor untuk sistem operasi Windows. | Informasi mengenai tanggal dan pembaruan ini berasal dari pernyataan resmi CrowdStrike dan telah diberitakan oleh berbagai media terpercaya. |
+| 1 | Pada 19 Juli 2024, CrowdStrike merilis pembaruan  Falcon Sensor untuk sistem operasi Windows. | Informasi mengenai tanggal dan pembaruan ini berasal dari pernyataan resmi CrowdStrike dan telah diberitakan oleh berbagai media terpercaya. |
 | 2 | Setelah pembaruan dipasang, banyak perangkat Windows mengalami Blue Screen of Death (BSOD) sehingga tidak dapat digunakan. | CrowdStrike menjelaskan bahwa gangguan tersebut terjadi karena kesalahan pada pembaruan yang dirilis, bukan akibat serangan siber. |
 | 3 | Gangguan tersebut berdampak pada berbagai sektor, seperti maskapai penerbangan, rumah sakit, perbankan, instansi pemerintah, dan perusahaan swasta di berbagai negara. | Dampak ini telah dilaporkan oleh berbagai media dan diakui oleh sejumlah organisasi yang terdampak. |
 | 4 | Microsoft turut membantu proses pemulihan agar perangkat yang terdampak dapat kembali beroperasi. | Informasi ini disampaikan secara resmi oleh Microsoft dan CrowdStrike. |
