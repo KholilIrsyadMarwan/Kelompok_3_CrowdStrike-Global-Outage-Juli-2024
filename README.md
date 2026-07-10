@@ -465,4 +465,5 @@ Bagi akademisi maupun mahasiswa, kasus CrowdStrike dapat dijadikan pembelajaran 
 Link Video Presentasi Youtube:
 
 🔗 https://youtu.be/LP4j9GZPWP8
+[![Video Presentasi](https://img.youtube.com/vi/LP4j9GZPWP8/0.jpg)](https://youtu.be/LP4j9GZPWP8)
 ---
